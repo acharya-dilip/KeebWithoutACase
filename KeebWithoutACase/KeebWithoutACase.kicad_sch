@@ -534,6 +534,12 @@
 		(uuid "219c8c4e-1430-4dad-8edb-22e60300a30c")
 	)
 	(junction
+		(at 355.6 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2383e0d6-4d53-4c5e-909f-b2f35d6a550e")
+	)
+	(junction
 		(at 157.48 73.66)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -562,6 +568,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2f91aefb-a65c-45f9-a6b8-25d9aa2bfa92")
+	)
+	(junction
+		(at 330.2 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "309f2611-d064-4b06-a6e3-7dd6ce3feba7")
 	)
 	(junction
 		(at 134.62 109.22)
@@ -702,6 +714,12 @@
 		(uuid "5b378445-806f-4bbb-b705-d43f586804b7")
 	)
 	(junction
+		(at 234.95 173.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5c102776-7d8c-4b31-8af6-b77e13932e42")
+	)
+	(junction
 		(at 212.09 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -802,6 +820,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7694d889-f079-45c9-a847-8bde31dee50b")
+	)
+	(junction
+		(at 312.42 121.92)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "80e34aa9-cf90-413b-9a4b-7945b4c3ff10")
 	)
 	(junction
 		(at 275.59 147.32)
@@ -960,6 +984,12 @@
 		(uuid "b7593ac6-223c-4eb1-82fd-86c9f7d84a81")
 	)
 	(junction
+		(at 355.6 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b7611ada-6335-4a04-8e3f-c53fe5214827")
+	)
+	(junction
 		(at 212.09 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1080,6 +1110,12 @@
 		(uuid "dd152c7c-0e96-4dee-80e1-d90b2a40a166")
 	)
 	(junction
+		(at 355.6 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "df7796b3-c279-445d-a5eb-d839138f95f7")
+	)
+	(junction
 		(at 171.45 173.99)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1110,10 +1146,22 @@
 		(uuid "ebb21609-1126-4855-8ac6-01196f71ef95")
 	)
 	(junction
+		(at 355.6 147.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "edbc34cb-92df-4ad6-96df-f403a7328949")
+	)
+	(junction
 		(at 212.09 173.99)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "eeefd9ac-1d43-4060-b487-b6c6f03dae2b")
+	)
+	(junction
+		(at 293.37 147.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f030c5f0-39f6-4c70-8799-b629e3dee82d")
 	)
 	(junction
 		(at 293.37 73.66)
@@ -1315,6 +1363,16 @@
 	)
 	(wire
 		(pts
+			(xy 355.6 134.62) (xy 355.6 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e1530bb-c245-4150-be6c-9ee699fab7b2")
+	)
+	(wire
+		(pts
 			(xy 157.48 121.92) (xy 176.53 121.92)
 		)
 		(stroke
@@ -1505,6 +1563,16 @@
 	)
 	(wire
 		(pts
+			(xy 330.2 99.06) (xy 360.68 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "43bddb93-8651-4dd8-882e-1d83b7acc0b8")
+	)
+	(wire
+		(pts
 			(xy 307.34 60.96) (xy 307.34 86.36)
 		)
 		(stroke
@@ -1652,6 +1720,16 @@
 			(type default)
 		)
 		(uuid "5caf3af7-326e-4e0b-a571-6b607330cc16")
+	)
+	(wire
+		(pts
+			(xy 293.37 147.32) (xy 355.6 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5cbfcfba-96bd-4846-84bd-288fdf4b8747")
 	)
 	(wire
 		(pts
@@ -1855,6 +1933,16 @@
 	)
 	(wire
 		(pts
+			(xy 234.95 173.99) (xy 360.68 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "780eb1d0-d1e4-4b16-99f2-325e7c5e4e38")
+	)
+	(wire
+		(pts
 			(xy 251.46 109.22) (xy 251.46 134.62)
 		)
 		(stroke
@@ -1875,6 +1963,16 @@
 	)
 	(wire
 		(pts
+			(xy 355.6 147.32) (xy 355.6 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7bf88794-254f-43fc-b5d8-b7064a8348d7")
+	)
+	(wire
+		(pts
 			(xy 251.46 147.32) (xy 256.54 147.32)
 		)
 		(stroke
@@ -1882,6 +1980,16 @@
 			(type default)
 		)
 		(uuid "7e16d61b-2b2b-49dd-877a-8837abf65209")
+	)
+	(wire
+		(pts
+			(xy 312.42 121.92) (xy 360.68 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f49a19f-279e-4712-8ac6-daa9fe5b85f1")
 	)
 	(wire
 		(pts
@@ -2215,6 +2323,16 @@
 	)
 	(wire
 		(pts
+			(xy 355.6 109.22) (xy 355.6 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0f3f7ed-4cf8-4e7d-83f6-7756bd42c489")
+	)
+	(wire
+		(pts
 			(xy 189.23 109.22) (xy 189.23 134.62)
 		)
 		(stroke
@@ -2402,6 +2520,16 @@
 			(type default)
 		)
 		(uuid "c2bfd22e-1a0b-4e46-9c53-8c4a8fca1d5e")
+	)
+	(wire
+		(pts
+			(xy 355.6 147.32) (xy 360.68 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3fdc83d-4783-4e0e-894e-c7d3ea488cd9")
 	)
 	(wire
 		(pts
@@ -2745,6 +2873,16 @@
 	)
 	(wire
 		(pts
+			(xy 355.6 86.36) (xy 355.6 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f19c88e0-b7f8-46de-acda-03eca09d85c3")
+	)
+	(wire
+		(pts
 			(xy 212.09 147.32) (xy 229.87 147.32)
 		)
 		(stroke
@@ -2762,6 +2900,16 @@
 			(type default)
 		)
 		(uuid "f71a54e9-18b1-4ded-b275-5c8263d963a9")
+	)
+	(wire
+		(pts
+			(xy 355.6 40.64) (xy 355.6 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f73a208e-952d-47e8-8a08-ba5fe7d3420f")
 	)
 	(wire
 		(pts
@@ -2865,6 +3013,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "COL 15"
+		(shape input)
+		(at 355.6 40.64 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3dddf63a-3172-4f46-bd57-62b2e9de7b59")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 355.6 30.6396 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -3284,6 +3454,74 @@
 			(project "KeebWithoutACase"
 				(path "/35878fee-9f0f-4654-b50b-b205a4b1f30d"
 					(reference "SW40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 358.14 137.16 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "03b31bdc-a5c8-4f5a-9023-36c497d410e0")
+		(property "Reference" "SW66"
+			(at 358.14 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_45deg"
+			(at 358.14 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 358.14 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 358.14 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 358.14 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "eecf2baf-40b0-425e-ba78-fc2e555172b6")
+		)
+		(pin "1"
+			(uuid "8b47013c-7e07-475d-aa01-c08a918af6f0")
+		)
+		(instances
+			(project "KeebWithoutACase"
+				(path "/35878fee-9f0f-4654-b50b-b205a4b1f30d"
+					(reference "SW66")
 					(unit 1)
 				)
 			)
@@ -4246,6 +4484,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Diode:1N4148WT")
+		(at 360.68 95.25 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0ed509fe-ad63-4a2e-ad86-0087b17795f1")
+		(property "Reference" "D56"
+			(at 363.22 93.9799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WT"
+			(at 363.22 96.5199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-523"
+			(at 365.125 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
+			(at 360.68 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
+			(at 360.68 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 360.68 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 360.68 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "539d61d2-1159-4d32-a6c3-94c106b46436")
+		)
+		(pin "2"
+			(uuid "83e1b1c9-bf69-4fd4-a333-e00577968d89")
+		)
+		(instances
+			(project "KeebWithoutACase"
+				(path "/35878fee-9f0f-4654-b50b-b205a4b1f30d"
+					(reference "D56")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 191.77 63.5 0)
 		(unit 1)
@@ -4396,6 +4722,94 @@
 			(project "KeebWithoutACase"
 				(path "/35878fee-9f0f-4654-b50b-b205a4b1f30d"
 					(reference "D23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WT")
+		(at 360.68 118.11 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "10de155a-e178-4d83-811e-714e8e28e9e1")
+		(property "Reference" "D65"
+			(at 363.22 116.8399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WT"
+			(at 363.22 119.3799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-523"
+			(at 365.125 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
+			(at 360.68 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
+			(at 360.68 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 360.68 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 360.68 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6f7a4349-84c2-4435-bd86-2fdea4f55530")
+		)
+		(pin "2"
+			(uuid "1e724f4b-3e0a-42a9-bfdb-c675066f2587")
+		)
+		(instances
+			(project "KeebWithoutACase"
+				(path "/35878fee-9f0f-4654-b50b-b205a4b1f30d"
+					(reference "D65")
 					(unit 1)
 				)
 			)
@@ -5738,6 +6152,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 358.14 163.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2d03d6a2-d97c-447d-ac75-33a62eae88ca")
+		(property "Reference" "SW67"
+			(at 358.14 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_45deg"
+			(at 358.14 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 358.14 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 358.14 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 358.14 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "094f419a-41b8-4710-b0af-af13432546e6")
+		)
+		(pin "1"
+			(uuid "23dc2325-6661-4cc3-82cb-50b083acd495")
+		)
+		(instances
+			(project "KeebWithoutACase"
+				(path "/35878fee-9f0f-4654-b50b-b205a4b1f30d"
+					(reference "SW67")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Diode:1N4148WT")
 		(at 120.65 69.85 90)
 		(unit 1)
@@ -6540,6 +7022,94 @@
 			(project "KeebWithoutACase"
 				(path "/35878fee-9f0f-4654-b50b-b205a4b1f30d"
 					(reference "SW47")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WT")
+		(at 360.68 143.51 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4aa00ef1-8fea-4531-be86-5c2392f24d5d")
+		(property "Reference" "D66"
+			(at 363.22 142.2399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WT"
+			(at 363.22 144.7799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-523"
+			(at 365.125 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
+			(at 360.68 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
+			(at 360.68 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 360.68 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 360.68 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8c93e51a-81eb-4bbf-8eb3-6947cb521d65")
+		)
+		(pin "2"
+			(uuid "918d4760-d4e4-4cf7-9040-30875d4183b3")
+		)
+		(instances
+			(project "KeebWithoutACase"
+				(path "/35878fee-9f0f-4654-b50b-b205a4b1f30d"
+					(reference "D66")
 					(unit 1)
 				)
 			)
@@ -9910,6 +10480,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 358.14 88.9 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a8a4c1ce-f62f-4818-8272-693c1e3d4891")
+		(property "Reference" "SW56"
+			(at 358.14 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_45deg"
+			(at 358.14 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 358.14 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 358.14 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 358.14 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a11530ee-108a-4ab1-b28d-3fc0e7b07c9f")
+		)
+		(pin "1"
+			(uuid "a0260968-6a45-4ee1-abd4-15c5b77013d9")
+		)
+		(instances
+			(project "KeebWithoutACase"
+				(path "/35878fee-9f0f-4654-b50b-b205a4b1f30d"
+					(reference "SW56")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Diode:1N4148WT")
 		(at 120.65 170.18 90)
 		(unit 1)
@@ -10392,6 +11030,94 @@
 			(project "KeebWithoutACase"
 				(path "/35878fee-9f0f-4654-b50b-b205a4b1f30d"
 					(reference "SW3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148WT")
+		(at 360.68 170.18 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b5553c6f-2d65-4e21-963f-2d9072d076e9")
+		(property "Reference" "D67"
+			(at 363.22 168.9099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148WT"
+			(at 363.22 171.4499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-523"
+			(at 365.125 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
+			(at 360.68 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
+			(at 360.68 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 360.68 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 360.68 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0fd9b336-5001-4b1a-9a44-c192434c5466")
+		)
+		(pin "2"
+			(uuid "e2ef5bb9-2ecd-48f4-b96c-498ab398b2bc")
+		)
+		(instances
+			(project "KeebWithoutACase"
+				(path "/35878fee-9f0f-4654-b50b-b205a4b1f30d"
+					(reference "D67")
 					(unit 1)
 				)
 			)
@@ -12616,6 +13342,74 @@
 			(project "KeebWithoutACase"
 				(path "/35878fee-9f0f-4654-b50b-b205a4b1f30d"
 					(reference "D58")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
+		(at 358.14 111.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f636ada1-53d0-4029-94db-677c8f28c5c4")
+		(property "Reference" "SW65"
+			(at 358.14 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_45deg"
+			(at 358.14 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 358.14 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 358.14 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 358.14 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "deb341fc-cb0b-4a5a-bca5-29f27f2baa04")
+		)
+		(pin "1"
+			(uuid "90c2bfe4-6d76-4990-a4e4-4922ed10d575")
+		)
+		(instances
+			(project "KeebWithoutACase"
+				(path "/35878fee-9f0f-4654-b50b-b205a4b1f30d"
+					(reference "SW65")
 					(unit 1)
 				)
 			)
