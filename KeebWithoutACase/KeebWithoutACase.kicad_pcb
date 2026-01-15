@@ -455,7 +455,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "02eb8bbb-3f37-4d55-91e9-a857e47a2ea5")
-		(at 722.565 -33.065 180)
+		(at 518.34 236.21 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D57"
@@ -740,7 +740,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "041e0031-2dac-4b1b-819d-f1c6f6e31258")
-		(at 741.755 -33.065 180)
+		(at 537.53 236.21 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D42"
@@ -1311,7 +1311,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "0e3f6b96-0fd2-4429-9faa-86ee98e6f4be")
-		(at 760.945 42.725 180)
+		(at 191.3 80.4 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D17"
@@ -1881,7 +1881,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "11b76a97-5e71-4a75-b6ab-ad73fc28fe65")
-		(at 760.945 -5.505 180)
+		(at 328.75 80.2 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D24"
@@ -2452,7 +2452,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "135ad395-7915-4254-9c59-31a9638fe64c")
-		(at 741.755 35.835 180)
+		(at 537.53 305.11 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D32"
@@ -3023,7 +3023,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "1451f735-21d6-432c-99ce-fde21061a3e8")
-		(at 760.945 1.385 180)
+		(at 309.2 80.25 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D23"
@@ -3308,7 +3308,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "160a315c-77a0-448b-ae85-584c349fdc9e")
-		(at 741.755 -5.505 180)
+		(at 537.53 263.77 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D38"
@@ -4450,7 +4450,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "1f40bda2-bf75-480d-8a8f-cd0945dcd219")
-		(at 760.945 22.055 180)
+		(at 250.05 80.2 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D20"
@@ -6450,7 +6450,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "2bcc5a99-0f85-48d4-a423-c6e05397d3bb")
-		(at 741.755 15.165 180)
+		(at 537.53 284.44 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D35"
@@ -7307,7 +7307,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "2fbd57b5-c97c-43d1-ab3a-c67364468152")
-		(at 741.755 22.055 180)
+		(at 537.53 291.33 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D34"
@@ -9363,7 +9363,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "44529c03-9325-4a8c-b868-8358496570ff")
-		(at 741.755 -12.395 180)
+		(at 537.53 256.88 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D39"
@@ -10506,7 +10506,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "51033804-7edd-446f-bee2-b94c6ba9e03e")
-		(at 722.565 -5.505 180)
+		(at 518.34 263.77 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D52"
@@ -12218,7 +12218,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "5d13653e-9705-4148-99c2-b5de883e31fa")
-		(at 741.755 56.505 180)
+		(at 537.53 325.78 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D29"
@@ -12503,7 +12503,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "5d862882-3592-4370-a700-8ce1360c4425")
-		(at 722.565 -12.395 180)
+		(at 518.34 256.88 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D53"
@@ -12788,7 +12788,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "5fd3215f-c9cf-4794-bbb4-bb58a6d8d631")
-		(at 703.375 42.725 180)
+		(at 499.15 312 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D60"
@@ -13073,7 +13073,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "6258e7c8-6604-4c20-84ff-0c960c5e2e46")
-		(at 741.755 1.385 180)
+		(at 537.53 270.66 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D37"
@@ -13929,7 +13929,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "647f1b8a-bac5-4b3f-b0b5-93105bbd125a")
-		(at 722.565 56.505 180)
+		(at 518.34 325.78 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D43"
@@ -14214,7 +14214,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "6a0d2459-7004-475d-9b79-fade854b5957")
-		(at 741.755 -19.285 180)
+		(at 537.53 249.99 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D40"
@@ -14785,7 +14785,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "6bda4cf3-8875-415c-8c34-a32bfe8e12ff")
-		(at 760.945 8.275 180)
+		(at 289.35 80.25 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D22"
@@ -15070,7 +15070,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "6cc164c9-021e-4b35-8d33-5cec539ba563")
-		(at 703.375 22.055 180)
+		(at 499.15 291.33 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D63"
@@ -15355,7 +15355,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "70012b76-de9c-4191-8be6-1b53ceb94325")
-		(at 722.565 1.385 180)
+		(at 518.34 270.66 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D51"
@@ -15640,7 +15640,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "77608e21-b66b-42b0-b644-4117ae043aea")
-		(at 722.565 22.055 180)
+		(at 518.34 291.33 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D48"
@@ -16497,7 +16497,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "7a93f85e-46bc-4949-96bb-4583eb768737")
-		(at 703.375 8.275 180)
+		(at 499.15 277.55 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D65"
@@ -16782,7 +16782,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "7dd24ba4-c0eb-460d-a2b4-64e636b2521a")
-		(at 703.375 35.835 180)
+		(at 499.15 305.11 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D61"
@@ -18334,7 +18334,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "867ec8d9-3b1a-4373-9e57-bbe4015f6105")
-		(at 722.565 28.945 180)
+		(at 518.34 298.22 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D47"
@@ -19191,7 +19191,7 @@
 	(footprint "Module:RaspberryPi_Pico_Common_Unspecified"
 		(layer "F.Cu")
 		(uuid "89152aa8-ef1e-4a61-a25a-1ce9c8a6e086")
-		(at 741.245 -84.66 180)
+		(at 537.02 184.615 180)
 		(descr "Raspberry Pi Pico versatile common (Pico & Pico W) footprint for surface-mount or through-hole hand soldering, supports Raspberry Pi Pico 2, default socketed model has height of 8.51mm, https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf")
 		(tags "module usb pcb antenna")
 		(property "Reference" "A1"
@@ -22163,8 +22163,8 @@
 			)
 			(polygon
 				(pts
-					(xy 743.645 -109.649895) (xy 748.345 -105.999895) (xy 748.345 -101.66) (xy 734.145 -101.66) (xy 734.145 -105.999895)
-					(xy 738.845 -109.649895) (xy 738.845 -110.66) (xy 743.645 -110.66)
+					(xy 539.42 159.625105) (xy 544.12 163.275105) (xy 544.12 167.615) (xy 529.92 167.615) (xy 529.92 163.275105)
+					(xy 534.62 159.625105) (xy 534.62 158.615) (xy 539.42 158.615)
 				)
 			)
 		)
@@ -22197,10 +22197,10 @@
 			)
 			(polygon
 				(pts
-					(xy 739.8735 -91.3474) (xy 740.6609 -91.3474) (xy 740.6609 -89.3726) (xy 739.8735 -89.3726) (xy 739.8341 -89.374522)
-					(xy 739.761298 -89.404677) (xy 739.705577 -89.460398) (xy 739.675422 -89.5332) (xy 739.6735 -89.5726)
-					(xy 739.6735 -91.1474) (xy 739.675422 -91.1868) (xy 739.705577 -91.259602) (xy 739.761298 -91.315323)
-					(xy 739.8341 -91.345478)
+					(xy 535.6485 177.9276) (xy 536.4359 177.9276) (xy 536.4359 179.9024) (xy 535.6485 179.9024) (xy 535.6091 179.900478)
+					(xy 535.536298 179.870323) (xy 535.480577 179.814602) (xy 535.450422 179.7418) (xy 535.4485 179.7024)
+					(xy 535.4485 178.1276) (xy 535.450422 178.0882) (xy 535.480577 178.015398) (xy 535.536298 177.959677)
+					(xy 535.6091 177.929522)
 				)
 			)
 		)
@@ -22233,10 +22233,10 @@
 			)
 			(polygon
 				(pts
-					(xy 741.616222 -89.460398) (xy 741.560502 -89.404678) (xy 741.4877 -89.374522) (xy 741.4483 -89.3726)
-					(xy 740.6609 -89.3726) (xy 740.6609 -91.3474) (xy 741.4483 -91.3474) (xy 741.4877 -91.345478) (xy 741.560502 -91.315322)
-					(xy 741.616222 -91.259602) (xy 741.646378 -91.1868) (xy 741.6483 -91.1474) (xy 741.6483 -89.5726)
-					(xy 741.646378 -89.5332)
+					(xy 537.391222 179.814602) (xy 537.335502 179.870322) (xy 537.2627 179.900478) (xy 537.2233 179.9024)
+					(xy 536.4359 179.9024) (xy 536.4359 177.9276) (xy 537.2233 177.9276) (xy 537.2627 177.929522) (xy 537.335502 177.959678)
+					(xy 537.391222 178.015398) (xy 537.421378 178.0882) (xy 537.4233 178.1276) (xy 537.4233 179.7024)
+					(xy 537.421378 179.7418)
 				)
 			)
 		)
@@ -22269,11 +22269,11 @@
 			)
 			(polygon
 				(pts
-					(xy 740.245 -80.61) (xy 739.795 -80.61) (xy 739.729455 -80.607861) (xy 739.602833 -80.573933) (xy 739.489306 -80.508388)
-					(xy 739.396612 -80.415694) (xy 739.331067 -80.302167) (xy 739.297139 -80.175545) (xy 739.295 -80.11)
-					(xy 739.295 -79.21) (xy 739.297139 -79.144455) (xy 739.331067 -79.017833) (xy 739.396612 -78.904306)
-					(xy 739.489306 -78.811612) (xy 739.602833 -78.746067) (xy 739.729455 -78.712139) (xy 739.795 -78.71)
-					(xy 740.245 -78.71)
+					(xy 536.02 188.665) (xy 535.57 188.665) (xy 535.504455 188.667139) (xy 535.377833 188.701067) (xy 535.264306 188.766612)
+					(xy 535.171612 188.859306) (xy 535.106067 188.972833) (xy 535.072139 189.099455) (xy 535.07 189.165)
+					(xy 535.07 190.065) (xy 535.072139 190.130545) (xy 535.106067 190.257167) (xy 535.171612 190.370694)
+					(xy 535.264306 190.463388) (xy 535.377833 190.528933) (xy 535.504455 190.562861) (xy 535.57 190.565)
+					(xy 536.02 190.565)
 				)
 			)
 		)
@@ -22306,11 +22306,11 @@
 			)
 			(polygon
 				(pts
-					(xy 740.245 -61.325) (xy 739.795 -61.325) (xy 739.729455 -61.322861) (xy 739.602833 -61.288933)
-					(xy 739.489306 -61.223388) (xy 739.396612 -61.130694) (xy 739.331067 -61.017167) (xy 739.297139 -60.890545)
-					(xy 739.295 -60.825) (xy 739.295 -59.925) (xy 739.297139 -59.859455) (xy 739.331067 -59.732833)
-					(xy 739.396612 -59.619306) (xy 739.489306 -59.526612) (xy 739.602833 -59.461067) (xy 739.729455 -59.427139)
-					(xy 739.795 -59.425) (xy 740.245 -59.425)
+					(xy 536.02 207.95) (xy 535.57 207.95) (xy 535.504455 207.952139) (xy 535.377833 207.986067) (xy 535.264306 208.051612)
+					(xy 535.171612 208.144306) (xy 535.106067 208.257833) (xy 535.072139 208.384455) (xy 535.07 208.45)
+					(xy 535.07 209.35) (xy 535.072139 209.415545) (xy 535.106067 209.542167) (xy 535.171612 209.655694)
+					(xy 535.264306 209.748388) (xy 535.377833 209.813933) (xy 535.504455 209.847861) (xy 535.57 209.85)
+					(xy 536.02 209.85)
 				)
 			)
 		)
@@ -22343,11 +22343,11 @@
 			)
 			(polygon
 				(pts
-					(xy 741.192861 -79.144455) (xy 741.158932 -79.017833) (xy 741.093388 -78.904306) (xy 741.000694 -78.811612)
-					(xy 740.887167 -78.746068) (xy 740.760545 -78.712139) (xy 740.695 -78.71) (xy 740.245 -78.71) (xy 740.245 -80.61)
-					(xy 740.695 -80.61) (xy 740.760545 -80.607861) (xy 740.887167 -80.573932) (xy 741.000694 -80.508388)
-					(xy 741.093388 -80.415694) (xy 741.158932 -80.302167) (xy 741.192861 -80.175545) (xy 741.195 -80.11)
-					(xy 741.195 -79.21)
+					(xy 536.967861 190.130545) (xy 536.933932 190.257167) (xy 536.868388 190.370694) (xy 536.775694 190.463388)
+					(xy 536.662167 190.528932) (xy 536.535545 190.562861) (xy 536.47 190.565) (xy 536.02 190.565) (xy 536.02 188.665)
+					(xy 536.47 188.665) (xy 536.535545 188.667139) (xy 536.662167 188.701068) (xy 536.775694 188.766612)
+					(xy 536.868388 188.859306) (xy 536.933932 188.972833) (xy 536.967861 189.099455) (xy 536.97 189.165)
+					(xy 536.97 190.065)
 				)
 			)
 		)
@@ -22380,11 +22380,11 @@
 			)
 			(polygon
 				(pts
-					(xy 741.192861 -59.859455) (xy 741.158932 -59.732833) (xy 741.093388 -59.619306) (xy 741.000694 -59.526612)
-					(xy 740.887167 -59.461068) (xy 740.760545 -59.427139) (xy 740.695 -59.425) (xy 740.245 -59.425)
-					(xy 740.245 -61.325) (xy 740.695 -61.325) (xy 740.760545 -61.322861) (xy 740.887167 -61.288932)
-					(xy 741.000694 -61.223388) (xy 741.093388 -61.130694) (xy 741.158932 -61.017167) (xy 741.192861 -60.890545)
-					(xy 741.195 -60.825) (xy 741.195 -59.925)
+					(xy 536.967861 209.415545) (xy 536.933932 209.542167) (xy 536.868388 209.655694) (xy 536.775694 209.748388)
+					(xy 536.662167 209.813932) (xy 536.535545 209.847861) (xy 536.47 209.85) (xy 536.02 209.85) (xy 536.02 207.95)
+					(xy 536.47 207.95) (xy 536.535545 207.952139) (xy 536.662167 207.986068) (xy 536.775694 208.051612)
+					(xy 536.868388 208.144306) (xy 536.933932 208.257833) (xy 536.967861 208.384455) (xy 536.97 208.45)
+					(xy 536.97 209.35)
 				)
 			)
 		)
@@ -22417,11 +22417,11 @@
 			)
 			(polygon
 				(pts
-					(xy 741.245 -64.61) (xy 740.795 -64.61) (xy 740.729455 -64.607861) (xy 740.602833 -64.573933) (xy 740.489306 -64.508388)
-					(xy 740.396612 -64.415694) (xy 740.331067 -64.302167) (xy 740.297139 -64.175545) (xy 740.295 -64.11)
-					(xy 740.295 -63.21) (xy 740.297139 -63.144455) (xy 740.331067 -63.017833) (xy 740.396612 -62.904306)
-					(xy 740.489306 -62.811612) (xy 740.602833 -62.746067) (xy 740.729455 -62.712139) (xy 740.795 -62.71)
-					(xy 741.245 -62.71)
+					(xy 537.02 204.665) (xy 536.57 204.665) (xy 536.504455 204.667139) (xy 536.377833 204.701067) (xy 536.264306 204.766612)
+					(xy 536.171612 204.859306) (xy 536.106067 204.972833) (xy 536.072139 205.099455) (xy 536.07 205.165)
+					(xy 536.07 206.065) (xy 536.072139 206.130545) (xy 536.106067 206.257167) (xy 536.171612 206.370694)
+					(xy 536.264306 206.463388) (xy 536.377833 206.528933) (xy 536.504455 206.562861) (xy 536.57 206.565)
+					(xy 537.02 206.565)
 				)
 			)
 		)
@@ -22454,11 +22454,11 @@
 			)
 			(polygon
 				(pts
-					(xy 742.192861 -63.144455) (xy 742.158932 -63.017833) (xy 742.093388 -62.904306) (xy 742.000694 -62.811612)
-					(xy 741.887167 -62.746068) (xy 741.760545 -62.712139) (xy 741.695 -62.71) (xy 741.245 -62.71) (xy 741.245 -64.61)
-					(xy 741.695 -64.61) (xy 741.760545 -64.607861) (xy 741.887167 -64.573932) (xy 742.000694 -64.508388)
-					(xy 742.093388 -64.415694) (xy 742.158932 -64.302167) (xy 742.192861 -64.175545) (xy 742.195 -64.11)
-					(xy 742.195 -63.21)
+					(xy 537.967861 206.130545) (xy 537.933932 206.257167) (xy 537.868388 206.370694) (xy 537.775694 206.463388)
+					(xy 537.662167 206.528932) (xy 537.535545 206.562861) (xy 537.47 206.565) (xy 537.02 206.565) (xy 537.02 204.665)
+					(xy 537.47 204.665) (xy 537.535545 204.667139) (xy 537.662167 204.701068) (xy 537.775694 204.766612)
+					(xy 537.868388 204.859306) (xy 537.933932 204.972833) (xy 537.967861 205.099455) (xy 537.97 205.165)
+					(xy 537.97 206.065)
 				)
 			)
 		)
@@ -22491,11 +22491,11 @@
 			)
 			(polygon
 				(pts
-					(xy 742.245 -61.31) (xy 741.795 -61.31) (xy 741.729455 -61.307861) (xy 741.602833 -61.273933) (xy 741.489306 -61.208388)
-					(xy 741.396612 -61.115694) (xy 741.331067 -61.002167) (xy 741.297139 -60.875545) (xy 741.295 -60.81)
-					(xy 741.295 -59.91) (xy 741.297139 -59.844455) (xy 741.331067 -59.717833) (xy 741.396612 -59.604306)
-					(xy 741.489306 -59.511612) (xy 741.602833 -59.446067) (xy 741.729455 -59.412139) (xy 741.795 -59.41)
-					(xy 742.245 -59.41)
+					(xy 538.02 207.965) (xy 537.57 207.965) (xy 537.504455 207.967139) (xy 537.377833 208.001067) (xy 537.264306 208.066612)
+					(xy 537.171612 208.159306) (xy 537.106067 208.272833) (xy 537.072139 208.399455) (xy 537.07 208.465)
+					(xy 537.07 209.365) (xy 537.072139 209.430545) (xy 537.106067 209.557167) (xy 537.171612 209.670694)
+					(xy 537.264306 209.763388) (xy 537.377833 209.828933) (xy 537.504455 209.862861) (xy 537.57 209.865)
+					(xy 538.02 209.865)
 				)
 			)
 		)
@@ -22528,11 +22528,11 @@
 			)
 			(polygon
 				(pts
-					(xy 742.795 -70.41) (xy 742.795 -66.71) (xy 742.797139 -66.644455) (xy 742.831067 -66.517833) (xy 742.896612 -66.404306)
-					(xy 742.989306 -66.311612) (xy 743.102833 -66.246067) (xy 743.229455 -66.212139) (xy 743.295 -66.21)
-					(xy 744.195 -66.21) (xy 744.260545 -66.212139) (xy 744.387167 -66.246067) (xy 744.500694 -66.311612)
-					(xy 744.593388 -66.404306) (xy 744.658933 -66.517833) (xy 744.692861 -66.644455) (xy 744.695 -66.71)
-					(xy 744.695 -70.41)
+					(xy 538.57 198.865) (xy 538.57 202.565) (xy 538.572139 202.630545) (xy 538.606067 202.757167) (xy 538.671612 202.870694)
+					(xy 538.764306 202.963388) (xy 538.877833 203.028933) (xy 539.004455 203.062861) (xy 539.07 203.065)
+					(xy 539.97 203.065) (xy 540.035545 203.062861) (xy 540.162167 203.028933) (xy 540.275694 202.963388)
+					(xy 540.368388 202.870694) (xy 540.433933 202.757167) (xy 540.467861 202.630545) (xy 540.47 202.565)
+					(xy 540.47 198.865)
 				)
 			)
 		)
@@ -22565,11 +22565,11 @@
 			)
 			(polygon
 				(pts
-					(xy 743.192861 -59.844455) (xy 743.158932 -59.717833) (xy 743.093388 -59.604306) (xy 743.000694 -59.511612)
-					(xy 742.887167 -59.446068) (xy 742.760545 -59.412139) (xy 742.695 -59.41) (xy 742.245 -59.41) (xy 742.245 -61.31)
-					(xy 742.695 -61.31) (xy 742.760545 -61.307861) (xy 742.887167 -61.273932) (xy 743.000694 -61.208388)
-					(xy 743.093388 -61.115694) (xy 743.158932 -61.002167) (xy 743.192861 -60.875545) (xy 743.195 -60.81)
-					(xy 743.195 -59.91)
+					(xy 538.967861 209.430545) (xy 538.933932 209.557167) (xy 538.868388 209.670694) (xy 538.775694 209.763388)
+					(xy 538.662167 209.828932) (xy 538.535545 209.862861) (xy 538.47 209.865) (xy 538.02 209.865) (xy 538.02 207.965)
+					(xy 538.47 207.965) (xy 538.535545 207.967139) (xy 538.662167 208.001068) (xy 538.775694 208.066612)
+					(xy 538.868388 208.159306) (xy 538.933932 208.272833) (xy 538.967861 208.399455) (xy 538.97 208.465)
+					(xy 538.97 209.365)
 				)
 			)
 		)
@@ -22602,11 +22602,11 @@
 			)
 			(polygon
 				(pts
-					(xy 744.260545 -74.607861) (xy 744.387167 -74.573932) (xy 744.500694 -74.508388) (xy 744.593388 -74.415694)
-					(xy 744.658932 -74.302167) (xy 744.692861 -74.175545) (xy 744.695 -74.11) (xy 744.695 -70.41) (xy 742.795 -70.41)
-					(xy 742.795 -74.11) (xy 742.797139 -74.175545) (xy 742.831068 -74.302167) (xy 742.896612 -74.415694)
-					(xy 742.989306 -74.508388) (xy 743.102833 -74.573932) (xy 743.229455 -74.607861) (xy 743.295 -74.61)
-					(xy 744.195 -74.61)
+					(xy 540.035545 194.667139) (xy 540.162167 194.701068) (xy 540.275694 194.766612) (xy 540.368388 194.859306)
+					(xy 540.433932 194.972833) (xy 540.467861 195.099455) (xy 540.47 195.165) (xy 540.47 198.865) (xy 538.57 198.865)
+					(xy 538.57 195.165) (xy 538.572139 195.099455) (xy 538.606068 194.972833) (xy 538.671612 194.859306)
+					(xy 538.764306 194.766612) (xy 538.877833 194.701068) (xy 539.004455 194.667139) (xy 539.07 194.665)
+					(xy 539.97 194.665)
 				)
 			)
 		)
@@ -22639,14 +22639,14 @@
 			)
 			(polygon
 				(pts
-					(xy 740.645 -107.56) (xy 740.582036 -107.562462) (xy 740.462272 -107.601376) (xy 740.360394 -107.675394)
-					(xy 740.286376 -107.777272) (xy 740.247462 -107.897036) (xy 740.245 -107.96)
+					(xy 536.42 161.715) (xy 536.357036 161.712538) (xy 536.237272 161.673624) (xy 536.135394 161.599606)
+					(xy 536.061376 161.497728) (xy 536.022462 161.377964) (xy 536.02 161.315)
 					(arc
-						(start 740.245 -110.16)
-						(mid 740.537893 -110.867107)
-						(end 741.245 -111.16)
+						(start 536.02 159.115)
+						(mid 536.312893 158.407893)
+						(end 537.02 158.115)
 					)
-					(xy 741.245 -107.56)
+					(xy 537.02 161.715)
 				)
 			)
 		)
@@ -22679,14 +22679,14 @@
 			)
 			(polygon
 				(pts
-					(xy 741.845 -107.56) (xy 741.245 -107.56)
+					(xy 537.62 161.715) (xy 537.02 161.715)
 					(arc
-						(start 741.245 -111.16)
-						(mid 741.952107 -110.867107)
-						(end 742.245 -110.16)
+						(start 537.02 158.115)
+						(mid 537.727107 158.407893)
+						(end 538.02 159.115)
 					)
-					(xy 742.245 -107.96) (xy 742.242807 -107.896994) (xy 742.203867 -107.777148) (xy 742.129799 -107.675201)
-					(xy 742.027852 -107.601133) (xy 741.908006 -107.562193)
+					(xy 538.02 161.315) (xy 538.017807 161.378006) (xy 537.978867 161.497852) (xy 537.904799 161.599799)
+					(xy 537.802852 161.673867) (xy 537.683006 161.712807)
 				)
 			)
 		)
@@ -22719,15 +22719,15 @@
 			)
 			(polygon
 				(pts
-					(xy 734.588722 -90.36) (xy 734.607618 -90.167285) (xy 734.663586 -89.98191) (xy 734.754494 -89.810937)
-					(xy 734.87688 -89.660877) (xy 735.026081 -89.537447) (xy 735.196416 -89.445348) (xy 735.381395 -89.388087)
-					(xy 735.573973 -89.367846) (xy 735.766816 -89.385396) (xy 735.952576 -89.440069) (xy 736.12418 -89.529781)
-					(xy 736.275091 -89.651116) (xy 736.399559 -89.799452) (xy 736.492846 -89.96914) (xy 736.551397 -90.153715)
-					(xy 736.572981 -90.346147) (xy 736.556778 -90.539107) (xy 736.503404 -90.725245) (xy 736.414892 -90.897471)
-					(xy 736.294613 -91.049225) (xy 736.147149 -91.174726) (xy 735.978118 -91.269195) (xy 735.793956 -91.329033)
-					(xy 735.601679 -91.35196) (xy 735.40861 -91.337105) (xy 735.222104 -91.285031) (xy 735.049264 -91.197724)
-					(xy 734.896675 -91.078507) (xy 734.770147 -90.931923) (xy 734.6745 -90.763555) (xy 734.613378 -90.579816)
-					(xy 734.589109 -90.387703)
+					(xy 530.363722 178.915) (xy 530.382618 179.107715) (xy 530.438586 179.29309) (xy 530.529494 179.464063)
+					(xy 530.65188 179.614123) (xy 530.801081 179.737553) (xy 530.971416 179.829652) (xy 531.156395 179.886913)
+					(xy 531.348973 179.907154) (xy 531.541816 179.889604) (xy 531.727576 179.834931) (xy 531.89918 179.745219)
+					(xy 532.050091 179.623884) (xy 532.174559 179.475548) (xy 532.267846 179.30586) (xy 532.326397 179.121285)
+					(xy 532.347981 178.928853) (xy 532.331778 178.735893) (xy 532.278404 178.549755) (xy 532.189892 178.377529)
+					(xy 532.069613 178.225775) (xy 531.922149 178.100274) (xy 531.753118 178.005805) (xy 531.568956 177.945967)
+					(xy 531.376679 177.92304) (xy 531.18361 177.937895) (xy 530.997104 177.989969) (xy 530.824264 178.077276)
+					(xy 530.671675 178.196493) (xy 530.545147 178.343077) (xy 530.4495 178.511445) (xy 530.388378 178.695184)
+					(xy 530.364109 178.887297)
 				)
 			)
 		)
@@ -22760,15 +22760,15 @@
 			)
 			(polygon
 				(pts
-					(xy 737.128722 -90.36) (xy 737.147618 -90.167285) (xy 737.203586 -89.98191) (xy 737.294494 -89.810937)
-					(xy 737.41688 -89.660877) (xy 737.566081 -89.537447) (xy 737.736416 -89.445348) (xy 737.921395 -89.388087)
-					(xy 738.113973 -89.367846) (xy 738.306816 -89.385396) (xy 738.492576 -89.440069) (xy 738.66418 -89.529781)
-					(xy 738.815091 -89.651116) (xy 738.939559 -89.799452) (xy 739.032846 -89.96914) (xy 739.091397 -90.153715)
-					(xy 739.112981 -90.346147) (xy 739.096778 -90.539107) (xy 739.043404 -90.725245) (xy 738.954892 -90.897471)
-					(xy 738.834613 -91.049225) (xy 738.687149 -91.174726) (xy 738.518118 -91.269195) (xy 738.333956 -91.329033)
-					(xy 738.141679 -91.35196) (xy 737.94861 -91.337105) (xy 737.762104 -91.285031) (xy 737.589264 -91.197724)
-					(xy 737.436675 -91.078507) (xy 737.310147 -90.931923) (xy 737.2145 -90.763555) (xy 737.153378 -90.579816)
-					(xy 737.129109 -90.387703)
+					(xy 532.903722 178.915) (xy 532.922618 179.107715) (xy 532.978586 179.29309) (xy 533.069494 179.464063)
+					(xy 533.19188 179.614123) (xy 533.341081 179.737553) (xy 533.511416 179.829652) (xy 533.696395 179.886913)
+					(xy 533.888973 179.907154) (xy 534.081816 179.889604) (xy 534.267576 179.834931) (xy 534.43918 179.745219)
+					(xy 534.590091 179.623884) (xy 534.714559 179.475548) (xy 534.807846 179.30586) (xy 534.866397 179.121285)
+					(xy 534.887981 178.928853) (xy 534.871778 178.735893) (xy 534.818404 178.549755) (xy 534.729892 178.377529)
+					(xy 534.609613 178.225775) (xy 534.462149 178.100274) (xy 534.293118 178.005805) (xy 534.108956 177.945967)
+					(xy 533.916679 177.92304) (xy 533.72361 177.937895) (xy 533.537104 177.989969) (xy 533.364264 178.077276)
+					(xy 533.211675 178.196493) (xy 533.085147 178.343077) (xy 532.9895 178.511445) (xy 532.928378 178.695184)
+					(xy 532.904109 178.887297)
 				)
 			)
 		)
@@ -22802,14 +22802,14 @@
 			(polygon
 				(pts
 					(arc
-						(start 738.704859 -111.159925)
-						(mid 737.997752 -110.867032)
-						(end 737.704859 -110.159925)
+						(start 534.479859 158.115075)
+						(mid 533.772752 158.407968)
+						(end 533.479859 159.115075)
 					)
 					(arc
-						(start 737.704859 -108.559925)
-						(mid 737.997752 -107.852818)
-						(end 738.704859 -107.559925)
+						(start 533.479859 160.715075)
+						(mid 533.772752 161.422182)
+						(end 534.479859 161.715075)
 					)
 				)
 			)
@@ -22844,14 +22844,14 @@
 			(polygon
 				(pts
 					(arc
-						(start 739.704859 -110.159925)
-						(mid 739.411966 -110.867032)
-						(end 738.704859 -111.159925)
+						(start 535.479859 159.115075)
+						(mid 535.186966 158.407968)
+						(end 534.479859 158.115075)
 					)
 					(arc
-						(start 738.704859 -107.559925)
-						(mid 739.411966 -107.852818)
-						(end 739.704859 -108.559925)
+						(start 534.479859 161.715075)
+						(mid 535.186966 161.422182)
+						(end 535.479859 160.715075)
 					)
 				)
 			)
@@ -22886,14 +22886,14 @@
 			(polygon
 				(pts
 					(arc
-						(start 743.785 -111.16)
-						(mid 743.077893 -110.867107)
-						(end 742.785 -110.16)
+						(start 539.56 158.115)
+						(mid 538.852893 158.407893)
+						(end 538.56 159.115)
 					)
 					(arc
-						(start 742.785 -108.56)
-						(mid 743.077893 -107.852893)
-						(end 743.785 -107.56)
+						(start 538.56 160.715)
+						(mid 538.852893 161.422107)
+						(end 539.56 161.715)
 					)
 				)
 			)
@@ -22928,14 +22928,14 @@
 			(polygon
 				(pts
 					(arc
-						(start 744.785 -110.16)
-						(mid 744.492107 -110.867107)
-						(end 743.785 -111.16)
+						(start 540.56 159.115)
+						(mid 540.267107 158.407893)
+						(end 539.56 158.115)
 					)
 					(arc
-						(start 743.785 -107.56)
-						(mid 744.492107 -107.852893)
-						(end 744.785 -108.56)
+						(start 539.56 161.715)
+						(mid 540.267107 161.422107)
+						(end 540.56 160.715)
 					)
 				)
 			)
@@ -22969,7 +22969,7 @@
 			)
 			(polygon
 				(pts
-					(xy 747.445 -37.01) (xy 735.045 -37.01) (xy 735.045 -57.41) (xy 747.445 -57.41)
+					(xy 543.22 232.265) (xy 530.82 232.265) (xy 530.82 211.865) (xy 543.22 211.865)
 				)
 			)
 		)
@@ -23002,8 +23002,8 @@
 			)
 			(polygon
 				(pts
-					(xy 746.995 -56.96) (xy 745.185 -56.96) (xy 745.185 -57.36) (xy 737.305 -57.36) (xy 737.305 -56.96)
-					(xy 735.495 -56.96) (xy 735.495 -37.46) (xy 746.995 -37.46)
+					(xy 542.77 212.315) (xy 540.96 212.315) (xy 540.96 211.915) (xy 533.08 211.915) (xy 533.08 212.315)
+					(xy 531.27 212.315) (xy 531.27 231.815) (xy 542.77 231.815)
 				)
 			)
 		)
@@ -23826,7 +23826,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "8e6a7d5d-9083-47e6-804e-0327adf9a711")
-		(at 722.565 -26.175 180)
+		(at 518.34 243.1 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D56"
@@ -24397,7 +24397,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "8f096709-47d5-4585-9dc2-d4628eb40811")
-		(at 760.945 49.615 180)
+		(at 171.7 80.45 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D16"
@@ -24967,7 +24967,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "904b6c13-ef4f-4f72-a4b0-9ae3ea404857")
-		(at 760.945 56.505 180)
+		(at 147.45 80.55 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D15"
@@ -25538,7 +25538,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "91037bfe-5cf2-4de9-8cc6-486a12152df6")
-		(at 703.375 49.615 180)
+		(at 499.15 318.89 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D59"
@@ -26108,7 +26108,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "950f80d1-9af3-44a6-bab4-bb5a09b9cf94")
-		(at 760.945 -19.285 180)
+		(at 368 79.9 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D26"
@@ -26393,7 +26393,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "96e44a7d-ca41-4212-b95a-6852a6575ac8")
-		(at 722.565 -19.285 180)
+		(at 518.34 249.99 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D54"
@@ -26678,7 +26678,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "975166a3-9abc-4dda-88ae-f9f598adf352")
-		(at 741.755 -26.175 180)
+		(at 537.53 243.1 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D41"
@@ -27820,7 +27820,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "9bbe4da7-79a3-4379-8482-84a8c67a415b")
-		(at 703.375 28.945 180)
+		(at 499.15 298.22 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D62"
@@ -28105,7 +28105,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "9d16bae8-5463-4e86-b29b-55d5e0a5e17a")
-		(at 741.755 42.725 180)
+		(at 537.53 312 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D31"
@@ -28962,7 +28962,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "a01e89d3-77fb-4472-b297-e34d9724ea52")
-		(at 722.565 8.275 180)
+		(at 518.34 277.55 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D50"
@@ -30676,7 +30676,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "a59ef196-f3a9-40b7-90d4-8b6aec782658")
-		(at 760.945 -26.175 180)
+		(at 387.7 79.85 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D27"
@@ -30961,7 +30961,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "a7a1246e-c239-47b5-a5b8-c4e83c6487ad")
-		(at 760.945 35.835 180)
+		(at 211.05 80.3 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D18"
@@ -32132,7 +32132,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "a9acb058-a650-4807-9eed-82953308d75b")
-		(at 703.375 15.165 180)
+		(at 499.15 284.44 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D64"
@@ -32417,7 +32417,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "aba67e7f-5873-42e3-869f-c391fb9d322b")
-		(at 722.565 49.615 180)
+		(at 518.34 318.89 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D44"
@@ -32702,7 +32702,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "aca596e5-201a-402a-80f9-be4d11b4f7ba")
-		(at 703.375 -5.505 180)
+		(at 499.15 263.77 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D67"
@@ -34730,7 +34730,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "c83187cc-6464-4527-8ea4-aecdd340f2f6")
-		(at 760.945 28.945 180)
+		(at 230.45 80.25 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D19"
@@ -35015,7 +35015,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "c876ea04-8d3e-43ff-aa82-6b9e10c9f901")
-		(at 760.945 -12.395 180)
+		(at 348.5 80.25 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D25"
@@ -35300,7 +35300,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "c8fd5168-8276-4695-9b31-c67a49fd9ed9")
-		(at 741.755 8.275 180)
+		(at 537.53 277.55 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D36"
@@ -36443,7 +36443,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "d2f04d30-9190-4d63-8a08-3a4015ad6d37")
-		(at 741.755 49.615 180)
+		(at 537.53 318.89 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D30"
@@ -36728,7 +36728,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "d4e77777-71f3-4c17-b2f6-313cac9bc6b9")
-		(at 760.945 -33.065 180)
+		(at 411.6 79.75 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D28"
@@ -37013,7 +37013,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "db87808d-a8e4-42c2-ae52-7e47c45f5cec")
-		(at 703.375 56.505 180)
+		(at 499.15 325.78 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D58"
@@ -37298,7 +37298,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "dba7cdd0-380d-48ba-b18c-32989038f3e3")
-		(at 722.565 35.835 180)
+		(at 518.34 305.11 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D46"
@@ -38154,7 +38154,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "e0889457-2bd0-4e0e-b399-de211407975b")
-		(at 722.565 15.165 180)
+		(at 518.34 284.44 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D49"
@@ -38439,7 +38439,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "e1ea5cae-147a-4af6-81b3-2576c720667b")
-		(at 760.945 15.165 180)
+		(at 269.7 80.1 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D21"
@@ -40439,7 +40439,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "f3a1d0df-4290-46e9-8d9d-c8ce5ab5381f")
-		(at 703.375 1.385 180)
+		(at 499.15 270.66 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D66"
@@ -40724,7 +40724,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "f45148c8-0bde-4a19-bd00-c12ca9b902c7")
-		(at 722.565 42.725 180)
+		(at 518.34 312 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D45"
@@ -41581,7 +41581,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "fcf1e3e0-5fee-44f2-ba1e-dcffffb17913")
-		(at 741.755 28.945 180)
+		(at 537.53 298.22 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D33"
