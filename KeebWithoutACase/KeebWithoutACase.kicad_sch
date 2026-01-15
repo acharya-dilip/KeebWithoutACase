@@ -4594,6 +4594,28 @@
 			)
 		)
 	)
+	(global_label "ENCODER B"
+		(shape input)
+		(at 73.66 63.5 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "50caa62f-165e-4950-a58d-2cc87f3053f1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 87.6518 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "COL 2"
 		(shape input)
 		(at 110.49 113.03 90)
