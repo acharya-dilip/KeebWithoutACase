@@ -176,7 +176,7 @@
 		(property "Reference" "D12"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "22da5052-f44b-46a2-b1f1-a0d437efdd4c")
+			(uuid "a7062852-32dc-46c5-93b0-a57f4f750830")
 			(effects
 				(font
 					(size 1 1)
@@ -187,7 +187,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "728e9048-77ba-4497-93d7-9c669cd6a181")
+			(uuid "c4754fd9-c8e3-45b2-8b3b-beb25a8ca9c8")
 			(effects
 				(font
 					(size 1 1)
@@ -199,7 +199,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0352277c-d665-43ae-a07b-7d8a24e3cc40")
+			(uuid "12c4932d-b04c-468b-a93b-db8934925aba")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -211,7 +211,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "08607764-116c-46b3-9a5e-80c58523db53")
+			(uuid "29e3d1ac-52c7-4425-89e0-7b2f4eac06c5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -461,7 +461,7 @@
 		(property "Reference" "D57"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "c96a9ff4-6a7f-463f-9f08-2adf0edd7eab")
+			(uuid "a19816e0-de85-425a-8993-76bb45efa1e3")
 			(effects
 				(font
 					(size 1 1)
@@ -472,7 +472,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "c7e3dfbc-2c51-4f25-a49d-89e6826850cb")
+			(uuid "5045dc23-1fe1-40ae-abe7-0c94eaba49a9")
 			(effects
 				(font
 					(size 1 1)
@@ -484,7 +484,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "61136f13-16cd-40c7-9fea-a2c9fcac6d49")
+			(uuid "319c4d34-213b-4c7d-a35c-5f99aab58be8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -496,7 +496,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "aa4c740f-6504-4664-927c-de37c54422b5")
+			(uuid "3c0d647e-24eb-48bf-a101-a82ba0287fe1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -746,7 +746,7 @@
 		(property "Reference" "D42"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "b2a7a656-b9da-468b-95bc-9985f2637232")
+			(uuid "2c1d2593-657a-4ded-bcda-feb7c631c9a6")
 			(effects
 				(font
 					(size 1 1)
@@ -757,7 +757,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "eeaf8483-5316-4a07-8420-79dac5694e09")
+			(uuid "f10113dd-d772-421c-9501-2f8d740e6167")
 			(effects
 				(font
 					(size 1 1)
@@ -769,7 +769,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e681379f-75e6-44e5-9ace-eb8689e6670a")
+			(uuid "37887f59-d018-43ca-ac40-689409c12cbf")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -781,7 +781,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3b2c173f-ae0a-4eb5-9cbf-c071bb75dac1")
+			(uuid "fb909634-6655-4ab0-ace5-286dd4173b5c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1023,7 +1023,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "052a2a23-c6eb-4ed9-bfd7-2b49bc2c5ffe")
 		(at 299 108.7)
@@ -1317,7 +1316,7 @@
 		(property "Reference" "D17"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "a0d8c37e-5714-4f92-bea6-39d5dc0ae6e5")
+			(uuid "65468996-6a14-4355-81f3-b72a91ab2a75")
 			(effects
 				(font
 					(size 1 1)
@@ -1328,7 +1327,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "a4a25f6a-ea90-47d4-8987-c0d8de983200")
+			(uuid "9871f03b-0b94-4c4b-b6dc-9ba2e736d6f2")
 			(effects
 				(font
 					(size 1 1)
@@ -1340,7 +1339,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bae4770b-08b3-484e-a7c8-9f91d8a6b1e0")
+			(uuid "9af94d33-7a15-4c03-b949-b57008ff6ee9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1352,7 +1351,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "82b01c35-e201-4682-9079-e9b242208178")
+			(uuid "02ccf0e6-a2b7-44e4-b8e6-2b8233d83e37")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1602,7 +1601,7 @@
 		(property "Reference" "D6"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "eade6699-638d-48a3-813c-ef82cdae6a9a")
+			(uuid "287a9403-02ee-4245-9b2c-e50682f5f74a")
 			(effects
 				(font
 					(size 1 1)
@@ -1613,7 +1612,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "9b1b2a4e-914c-49fc-9ca7-8672d5f0c40c")
+			(uuid "319ebca8-470e-41cf-801d-7b26c3a35542")
 			(effects
 				(font
 					(size 1 1)
@@ -1625,7 +1624,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "495a1155-feb1-441f-b2be-b715f9739111")
+			(uuid "a4889340-f40c-4689-a895-71d64699162b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1637,7 +1636,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "06d2f31f-b927-419b-b039-dbecc437c829")
+			(uuid "0f2c715e-5b81-436a-ae49-269cb3e23c70")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1887,7 +1886,7 @@
 		(property "Reference" "D24"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "7fc05273-c61f-4ec7-99a9-8deabfd34b63")
+			(uuid "37ae7d98-ace3-4b60-adf7-1ddb0b704232")
 			(effects
 				(font
 					(size 1 1)
@@ -1898,7 +1897,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "5377e229-1ba8-4cea-a750-b825bf325a61")
+			(uuid "0e901307-41a2-4778-b299-b4ddd2c6b0c4")
 			(effects
 				(font
 					(size 1 1)
@@ -1910,7 +1909,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "55b89483-4e1b-41ff-b6ea-a3e6c4b38a69")
+			(uuid "94a9aca4-1719-46fd-9727-09d904f38737")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1922,7 +1921,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "424afe2c-d03c-4f1c-bec3-65bac01a061c")
+			(uuid "255f3bbb-fbbb-4bc9-8f25-081416315540")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2164,7 +2163,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "1296f65c-af54-469f-8dfc-b4a44fd5d407")
 		(at 200.4 108.7)
@@ -2458,7 +2456,7 @@
 		(property "Reference" "D32"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "4e831b5b-bcb6-401a-8146-47167fac0232")
+			(uuid "a2687281-52d6-4319-94e5-4d358ba115eb")
 			(effects
 				(font
 					(size 1 1)
@@ -2469,7 +2467,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "307140d9-4d09-403a-9c45-373ba366871b")
+			(uuid "39f4e422-26e5-4b68-aa74-d6a8112fd8b7")
 			(effects
 				(font
 					(size 1 1)
@@ -2481,7 +2479,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "85e64870-9958-4a76-9dcf-4341fcdd17aa")
+			(uuid "d2af6a1f-7721-4412-af71-9387ceb5d31b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2493,7 +2491,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fd36a70d-c9c3-4515-9021-40b17cfe4de3")
+			(uuid "0da12789-8d15-441c-bc2b-bd43f8b213bc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2735,7 +2733,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "1410b049-3d72-4a18-b5dc-c53073636d4e")
 		(at 348.2 89)
@@ -3029,7 +3026,7 @@
 		(property "Reference" "D23"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "9f9f303a-8463-4584-a103-4351a6d8b431")
+			(uuid "1066ebd1-23f2-4ca9-b051-4a7b9445d536")
 			(effects
 				(font
 					(size 1 1)
@@ -3040,7 +3037,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "01fed9b4-71a8-431d-b8eb-de81bf91fc9c")
+			(uuid "bc078dd1-885d-4697-a1a2-bc1e695bff81")
 			(effects
 				(font
 					(size 1 1)
@@ -3052,7 +3049,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f2edd405-3fd0-45f9-bbf0-73cb94cb4d1a")
+			(uuid "d2350edc-fce4-4f75-8292-5e6c08fc5528")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3064,7 +3061,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0e68bd98-7585-49cc-89a4-c1c1a87cb8e4")
+			(uuid "d7d648d1-d989-4704-a085-08c93baf024a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3314,7 +3311,7 @@
 		(property "Reference" "D38"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "420a37ce-63d8-43c2-b227-62fbb3b534af")
+			(uuid "180eb4d9-f272-417e-8eea-a13643a170b7")
 			(effects
 				(font
 					(size 1 1)
@@ -3325,7 +3322,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "97ed7f46-f60c-40b8-baff-35dc5ac52168")
+			(uuid "0541ca1b-92c0-4634-9c74-2988921fc882")
 			(effects
 				(font
 					(size 1 1)
@@ -3337,7 +3334,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7a943df5-3c4e-4be9-9da9-396e7cf84fe4")
+			(uuid "9275e129-ef3b-4c34-9b72-cce22a86cc0d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3349,7 +3346,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d8ac0823-97e3-4dd2-96de-ca452efd999c")
+			(uuid "29628d86-5936-44ac-b922-4eafcae6f124")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3591,7 +3588,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "184fb7a7-185d-4416-87b7-12bd99576b60")
 		(at 269.25 88.96)
@@ -3877,7 +3873,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "19d5792e-d4cf-4936-9c59-56f08209b196")
 		(at 139.9 128.16)
@@ -4171,7 +4166,7 @@
 		(property "Reference" "D11"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "9c879751-f4e0-4beb-9036-f996613967d5")
+			(uuid "f3b1251a-30d7-49b3-95dd-25fdfdbc2b03")
 			(effects
 				(font
 					(size 1 1)
@@ -4182,7 +4177,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "7c5e3bbe-d312-41a6-9d07-b4d64baa808d")
+			(uuid "eee7b22f-9e69-46e2-bb1c-6b9b53f99d89")
 			(effects
 				(font
 					(size 1 1)
@@ -4194,7 +4189,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9ef000e9-89e2-432f-a3e7-89581d570975")
+			(uuid "a798c4d7-931a-4be7-aef0-d4ec293f2498")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4206,7 +4201,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c501b682-a645-4a0d-bd01-94906b772c6b")
+			(uuid "e1eabd07-cad2-42ef-9e96-659b7de9815b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4456,7 +4451,7 @@
 		(property "Reference" "D20"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "111a70c2-f5bd-4700-bfd1-fbafae6f73d9")
+			(uuid "72bfe83e-b5a0-4646-b8e6-850a922e9ec9")
 			(effects
 				(font
 					(size 1 1)
@@ -4467,7 +4462,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "f2f422eb-380e-4241-91f4-ebc33e15ad21")
+			(uuid "d36cdd91-26c1-49f8-bd21-bf3a90ac0448")
 			(effects
 				(font
 					(size 1 1)
@@ -4479,7 +4474,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "55f93b6d-5bfe-4af3-b0a6-4a66985351f3")
+			(uuid "a5392b7d-12c3-4200-a808-425fe4c1ac93")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4491,7 +4486,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "99a76a40-6509-496d-a01c-e8b53fde2c03")
+			(uuid "15182436-54fe-46b6-99d4-69451d8a3ba0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4733,7 +4728,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "2583b367-aeb6-44ad-816a-34be03c0951b")
 		(at 435.5 128.36)
@@ -5019,7 +5013,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "27a1df57-c3fa-469b-963c-d89514c8ba91")
 		(at 186.25 69.36)
@@ -5305,7 +5298,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "283a848b-a3cb-4a78-b7c5-5718bf062408")
 		(at 409.15 128.16)
@@ -5591,7 +5583,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "2894484b-00eb-4f93-a4d7-cf75be9e737c")
 		(at 180.8 108.7)
@@ -5877,7 +5868,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "291d465e-5f61-4992-8adb-9aabb026c3c0")
 		(at 142.34 69.52)
@@ -6163,7 +6153,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "292303f4-98ba-4737-a5f2-06c9aebadcd0")
 		(at 323.75 69.56)
@@ -6457,7 +6446,7 @@
 		(property "Reference" "D35"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "eee997f7-9592-4a70-b37c-417c0c80ffde")
+			(uuid "8ee0f51e-48e1-4199-9ab2-3951e5f2ad2b")
 			(effects
 				(font
 					(size 1 1)
@@ -6468,7 +6457,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "b133f4cd-734e-4a3f-a42c-93546563cf49")
+			(uuid "7c9a9d8f-e174-459c-8346-6c7a9d625e67")
 			(effects
 				(font
 					(size 1 1)
@@ -6480,7 +6469,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6e31180c-b00f-4c7e-85ec-e5d09b4c1793")
+			(uuid "d32a00cd-8828-4b44-8248-6504e3e2d16c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6492,7 +6481,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5f4daf48-fe8a-4884-9c1b-b606d8fa8db9")
+			(uuid "d47c64cc-88ea-4e28-afb9-08d3db979c9a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6734,7 +6723,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "2e2b6754-0c2a-4400-afcc-3513fbfd9d6e")
 		(at 304.05 69.46)
@@ -7020,7 +7008,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "2fb839d3-f123-496b-82ce-349fc86f823f")
 		(at 244.95 69.36)
@@ -7314,7 +7301,7 @@
 		(property "Reference" "D34"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "f3de785b-28e7-4806-a974-2245f6e92b4f")
+			(uuid "8af81a68-1f41-444c-a2c3-024480fd87f6")
 			(effects
 				(font
 					(size 1 1)
@@ -7325,7 +7312,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "6b11ea51-1285-43a3-bef2-44ca145c2429")
+			(uuid "f7acff36-139b-4ca9-869e-6bcd3ad81697")
 			(effects
 				(font
 					(size 1 1)
@@ -7337,7 +7324,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "57f1fea9-f2e3-4f17-8955-1ebaecad7b26")
+			(uuid "6df26abf-b351-43c3-8dd7-2e5f0076798d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7349,7 +7336,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "49d1315c-61e7-49fe-bac4-722fb5b14013")
+			(uuid "7203ca23-8866-4440-a72c-bb326f1487f7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7591,7 +7578,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_2.25u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "33b86a44-3158-4fb6-bd3c-0a80480a62ec")
 		(at 149.44 108.62)
@@ -7905,7 +7891,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "3a3367e1-7dfb-45bd-85a7-f9138dbedead")
 		(at 328.4 89)
@@ -8191,7 +8176,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_2.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "3da46f46-cf1c-489a-98e6-f911468b302e")
 		(at 401.92 49.92)
@@ -8505,7 +8489,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "4041bdb0-171f-42d9-a00f-09709f88d6f0")
 		(at 190.76 89.12)
@@ -8799,7 +8782,7 @@
 		(property "Reference" "D13"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "614bdcaa-fc35-4377-9aae-f73691304ec5")
+			(uuid "23e7c28f-f60e-44a0-baeb-f6623d2531cf")
 			(effects
 				(font
 					(size 1 1)
@@ -8810,7 +8793,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "5ab6c352-1af2-4455-b4e5-4c4f65eabcc6")
+			(uuid "efd79de6-a848-4dad-a84a-34f3e139e9cf")
 			(effects
 				(font
 					(size 1 1)
@@ -8822,7 +8805,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f10a78db-0664-45fa-b40d-165b3710742e")
+			(uuid "816ae471-abde-4b6f-a775-cc9888a0722e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8834,7 +8817,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "330a3792-e6d7-40e7-9785-97d0339b1bbe")
+			(uuid "ae2864b7-2d59-46e3-be69-85fef9b240df")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9076,7 +9059,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "436b2ded-8389-42d2-9bed-1c9cae9b37fa")
 		(at 279.16 108.7)
@@ -9370,7 +9352,7 @@
 		(property "Reference" "D39"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "f5da7640-c3fe-445f-b48b-659374f54360")
+			(uuid "edeee2fd-8122-484c-ae4f-f933ac625e85")
 			(effects
 				(font
 					(size 1 1)
@@ -9381,7 +9363,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "9d65b1a4-c740-437d-a14b-7abe3d0338a5")
+			(uuid "44d3e508-abbe-4e5a-9026-dab5fa63715b")
 			(effects
 				(font
 					(size 1 1)
@@ -9393,7 +9375,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "20b9a5d9-ecaf-4925-803e-286f5585d982")
+			(uuid "a2cf8751-f793-405f-ace1-9a9f0a563738")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9405,7 +9387,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fad22167-5d98-4077-93cb-3fbd3d10aad3")
+			(uuid "f21c0af6-c828-4e08-8433-197b42c4fbf7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9647,7 +9629,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "497997e3-6d5e-49da-a910-2333c0189895")
 		(at 157.22 49.92)
@@ -9933,7 +9914,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "4cf517c7-943b-4de8-8f90-04ba7088a3a0")
 		(at 372.85 49.86)
@@ -10219,7 +10199,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "506364c4-b941-4a80-9a2f-4e453e524cac")
 		(at 235.35 49.76)
@@ -10513,7 +10492,7 @@
 		(property "Reference" "D52"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "a93dde8d-76e0-4ebd-ba18-260fb7f0c92c")
+			(uuid "ada277ea-9fd2-4189-8789-3dad8bae8822")
 			(effects
 				(font
 					(size 1 1)
@@ -10524,7 +10503,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "6ca0b217-07e9-4874-a8a3-4cc4a467e69d")
+			(uuid "e8000106-aafe-4341-a724-6e1ce4c0ac59")
 			(effects
 				(font
 					(size 1 1)
@@ -10536,7 +10515,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3c857a53-b1f5-4803-8341-962f1e6b13bb")
+			(uuid "a0c78ecd-f864-4730-9a1f-08b4c1b43be9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10548,7 +10527,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c61a7d98-dde4-4c7e-837f-b4d781fe2b00")
+			(uuid "0eeffdd8-1869-4fa3-91e5-760c2c925da6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10790,7 +10769,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "519b5d4d-062b-48f7-b44c-a297db88cfc3")
 		(at 435.45 69.51)
@@ -11076,7 +11054,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "51d43e78-13da-4a40-87d4-1b0d49df645a")
 		(at 205.85 69.36)
@@ -11362,7 +11339,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "52b727a2-a24a-4391-abc4-37496c2ce4d3")
 		(at 239.9 108.7)
@@ -11656,7 +11632,7 @@
 		(property "Reference" "D10"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "92090b63-9b45-4b98-8f79-5f3ff1254d96")
+			(uuid "c24aacb0-4c0a-4c15-b26f-7123c18d51a4")
 			(effects
 				(font
 					(size 1 1)
@@ -11667,7 +11643,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "70027172-45a7-4e32-960c-7b16343eabab")
+			(uuid "eb183561-e7ee-42bc-a6e0-591f9937afb9")
 			(effects
 				(font
 					(size 1 1)
@@ -11679,7 +11655,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bb9c8a46-2815-4238-8da3-8a8fee992390")
+			(uuid "2942d854-bffe-4836-907b-662aea10738a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11691,7 +11667,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "09574c7a-dc3b-4f6e-ab4a-8db21fe47a52")
+			(uuid "b7738d64-3340-4285-9f9a-eee4cdcc0144")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11941,7 +11917,7 @@
 		(property "Reference" "D8"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "6914274e-94a7-4cb8-a8e0-42f0ebce7955")
+			(uuid "6bfaa2a1-0a16-4634-af6f-a17fb6a593cb")
 			(effects
 				(font
 					(size 1 1)
@@ -11952,7 +11928,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "1032e2ff-2850-49b3-92d9-f35423674151")
+			(uuid "9c480ed9-9d7e-4562-96dd-7cb110696e24")
 			(effects
 				(font
 					(size 1 1)
@@ -11964,7 +11940,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f7882207-bfe6-4d2d-a8b5-0d94b99acf9e")
+			(uuid "10d5fa5b-85fb-4de3-96fa-781b0f5b57b1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11976,7 +11952,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "64d754ec-d9ae-46ed-bd97-ee04457dc6cf")
+			(uuid "c0994f2f-2375-4bfc-8eab-171f72933435")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12226,7 +12202,7 @@
 		(property "Reference" "D29"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "930e404a-6f1f-4722-b011-c621e12e4be8")
+			(uuid "bdd2a77d-ae27-4535-9219-b65f20970495")
 			(effects
 				(font
 					(size 1 1)
@@ -12237,7 +12213,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "fdb69bc2-5f6e-421e-8042-2d86dbe6ba34")
+			(uuid "57bf636e-760f-4431-85c9-b8ff6f8503b0")
 			(effects
 				(font
 					(size 1 1)
@@ -12249,7 +12225,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0ce17547-df04-47d7-98b0-f5c376b3d6a4")
+			(uuid "4eb0e284-a12f-4d83-a591-b31bf07ff312")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12261,7 +12237,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "acfc6160-f956-4186-b80d-4de765ebabb5")
+			(uuid "971d1ee8-e83d-4481-b996-e913ef90ee9a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12511,7 +12487,7 @@
 		(property "Reference" "D53"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "fcd3229d-c8de-4a29-b853-35bb0edc119e")
+			(uuid "cb961846-a635-46cc-b43d-d0bae2b7ceaa")
 			(effects
 				(font
 					(size 1 1)
@@ -12522,7 +12498,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "5fc8fc87-d1a6-4107-894a-0ab2bdc10dda")
+			(uuid "179af0ee-701f-40f5-aa63-4f96c764d950")
 			(effects
 				(font
 					(size 1 1)
@@ -12534,7 +12510,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "33e6e16d-1207-47ab-a1f1-b1a4915eafd3")
+			(uuid "6ee26f0d-a336-455b-acf0-5990cb62e28f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12546,7 +12522,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3b83b112-a095-4ed3-8fc3-f914a7a31d90")
+			(uuid "f943a946-8b03-47f1-b66f-dbb6c9825aa1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12796,7 +12772,7 @@
 		(property "Reference" "D60"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "e6235563-bb4b-492d-9d0d-71b2731b99f8")
+			(uuid "ac191400-08aa-4725-ac7c-70eb7c755348")
 			(effects
 				(font
 					(size 1 1)
@@ -12807,7 +12783,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "c3a475b2-dcfa-4b88-b8cb-2493b0638ace")
+			(uuid "f4095309-6898-4eea-963e-3885487e1d8e")
 			(effects
 				(font
 					(size 1 1)
@@ -12819,7 +12795,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3f136353-1914-41c4-abba-1fab63399b11")
+			(uuid "111437f8-1fce-4e25-89d2-7f3b36ead171")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12831,7 +12807,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b042ca68-04af-4103-a6bd-fcb2b6b41917")
+			(uuid "46adb4fa-d10c-4156-bf0c-a00775de9af8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13081,7 +13057,7 @@
 		(property "Reference" "D37"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "bed17359-34c0-463b-9311-137d0a57aa56")
+			(uuid "4f665c21-40ab-4a85-b71b-3f23084faf56")
 			(effects
 				(font
 					(size 1 1)
@@ -13092,7 +13068,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "b832e494-8142-4312-97c1-bbe820d37995")
+			(uuid "fd01c6be-90de-4c3e-b5f5-3818dbd33e98")
 			(effects
 				(font
 					(size 1 1)
@@ -13104,7 +13080,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "49c200d4-8515-4125-adda-ce75873690c4")
+			(uuid "5f0a6593-eda0-4e8c-b72d-c95dc12b917a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13116,7 +13092,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "102ee4f4-362d-4d08-aa62-298356f986ca")
+			(uuid "cbc40543-0dbe-492b-a420-18042ae453e5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13358,7 +13334,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "62e3ee00-b798-4ad0-88a3-fa4e11150ca0")
 		(at 353.25 49.86)
@@ -13652,7 +13627,7 @@
 		(property "Reference" "D2"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "57e7d656-45d6-4782-8c31-7b4677968f1e")
+			(uuid "048b8e15-d9b3-4a5f-8e1a-e8732a473838")
 			(effects
 				(font
 					(size 1 1)
@@ -13663,7 +13638,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "1cf3a71f-da07-402f-ba20-3ded1486f328")
+			(uuid "3329c05a-c7b5-4ecc-966f-36913bcb2880")
 			(effects
 				(font
 					(size 1 1)
@@ -13675,7 +13650,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "469bed3b-8707-45c8-a368-4e65dcb89a5c")
+			(uuid "572824a1-387f-414a-927d-a3c3dbd54201")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13687,7 +13662,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7d02a718-34c0-4198-bc4d-2dc04c4bf14f")
+			(uuid "f8af7473-7518-4156-a07d-aca781c70261")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13937,7 +13912,7 @@
 		(property "Reference" "D43"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "16b97adc-46cb-4e82-9d1c-ef3b3c41ffe8")
+			(uuid "51ff0ee9-2fab-4a5f-ad59-9f1136af5645")
 			(effects
 				(font
 					(size 1 1)
@@ -13948,7 +13923,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "d9cc0d4b-eb2f-468b-9bb1-81167b656ecd")
+			(uuid "9063e344-94a2-400d-8208-d888083c9576")
 			(effects
 				(font
 					(size 1 1)
@@ -13960,7 +13935,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f282b555-31f2-4907-a6a3-2baad7d06068")
+			(uuid "fc539d85-3dc8-4bbc-a87f-2268bcfe091d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13972,7 +13947,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "33305614-7a4a-4a45-b72a-c43a00014214")
+			(uuid "4d8a8156-eb16-4928-9e5b-0ebff6da906a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14222,7 +14197,7 @@
 		(property "Reference" "D40"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "d7377d97-631e-41b5-9575-54f49fe329da")
+			(uuid "b2a74a83-b3d4-4fc8-a87a-cc2cc1b26b57")
 			(effects
 				(font
 					(size 1 1)
@@ -14233,7 +14208,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "8995a600-06de-40d7-bbed-d1d74dc9770e")
+			(uuid "498b4b65-5cc3-47e4-b5a2-1b9f65222d0c")
 			(effects
 				(font
 					(size 1 1)
@@ -14245,7 +14220,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "095783bf-9143-4066-8aea-c21559e6db78")
+			(uuid "6dcd3bea-a7cd-4d46-bbfb-5d98bbfae99f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14257,7 +14232,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c70433eb-d6ad-4419-b921-e5e99a5b8b12")
+			(uuid "579adf94-6748-40d6-a77e-07706526fec2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14499,7 +14474,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "6a30acef-1845-4567-9fa7-2fd77dd81cdc")
 		(at 338.3 108.8)
@@ -14793,7 +14767,7 @@
 		(property "Reference" "D22"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "5edd94a2-82c1-493b-950b-74240d3626a1")
+			(uuid "0825e53b-eb74-4a5f-a067-82de68ff7854")
 			(effects
 				(font
 					(size 1 1)
@@ -14804,7 +14778,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "3d6acd53-e8e2-4e1b-b091-fedd6f68e78e")
+			(uuid "d794cafd-0d8c-4c78-8d3e-dd9c949c10b8")
 			(effects
 				(font
 					(size 1 1)
@@ -14816,7 +14790,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "945bb186-e375-4907-8c81-f01f9561ecf4")
+			(uuid "0e79f2b6-89a9-4824-a8cc-9dff572a6b8e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14828,7 +14802,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c733427c-4a7c-4074-bca5-321c9ba39d14")
+			(uuid "2c4a4168-74fd-45b8-b47a-f071b383042c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15078,7 +15052,7 @@
 		(property "Reference" "D63"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "c59b8d9b-6864-4e55-be43-31c9e818e637")
+			(uuid "33fa38d8-a6e0-4331-9e99-f2c4f06133b9")
 			(effects
 				(font
 					(size 1 1)
@@ -15089,7 +15063,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "53e2da64-0118-4b36-934f-4ca86168c84d")
+			(uuid "846cee81-b8d2-49bd-9c07-ed4adab4e8e8")
 			(effects
 				(font
 					(size 1 1)
@@ -15101,7 +15075,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9d4a1cc4-4006-4352-a97d-eac5b70cf0b7")
+			(uuid "8c3287d2-0197-4bc0-898d-524e860c8aa7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15113,7 +15087,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4cd9b687-f5ce-45db-8b9a-971b067fe185")
+			(uuid "f7c604df-bc4f-405c-8028-be901070e740")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15363,7 +15337,7 @@
 		(property "Reference" "D51"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "1814393b-1d84-4d83-ab72-f44259cce32d")
+			(uuid "aa8e8602-74b2-432e-94b5-964d67debc61")
 			(effects
 				(font
 					(size 1 1)
@@ -15374,7 +15348,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "045f496e-c4ff-471f-bce6-b068c40aa0d0")
+			(uuid "b2b58cfb-e296-4006-8902-198f3e219efb")
 			(effects
 				(font
 					(size 1 1)
@@ -15386,7 +15360,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5745afad-67b9-44c8-9c93-44dc7fb4eb04")
+			(uuid "c7999308-bcb6-4937-bca5-534555a07c65")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15398,7 +15372,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cd6dc4fe-ceb5-44a3-918c-b347647df923")
+			(uuid "cddb242e-f7cd-4bf9-b021-abdd76446f4a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15648,7 +15622,7 @@
 		(property "Reference" "D48"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "80d8469f-741b-4d38-b2fa-f6d05d0ceba2")
+			(uuid "42cb2e70-9ff3-4f2d-90bd-60c24cf7dc04")
 			(effects
 				(font
 					(size 1 1)
@@ -15659,7 +15633,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "9097e9cb-5d8f-454c-ac52-376a5641a8cd")
+			(uuid "9e717710-d0d6-4f64-b602-27c5b3c10eae")
 			(effects
 				(font
 					(size 1 1)
@@ -15671,7 +15645,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "77399cbe-0b02-4541-b5e7-6ad4356e87d3")
+			(uuid "54afea4a-35bb-404b-a195-f51b944725a0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15683,7 +15657,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "861485fc-6658-4e8d-a03b-e64b8f3f1dd8")
+			(uuid "443e1634-6fdf-472d-81e6-39e7f9493a66")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15925,7 +15899,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "788b491c-bb5e-4028-8c0e-b7d53d79fd01")
 		(at 314.05 49.76)
@@ -16211,7 +16184,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "7a0cffb1-1d89-4a7d-ac23-45a6eebbd272")
 		(at 215.75 49.86)
@@ -16505,7 +16477,7 @@
 		(property "Reference" "D65"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "1ccb7ae8-de76-4792-a714-82de98c24313")
+			(uuid "2f490679-247a-4b83-b5f1-ad52b5d0b042")
 			(effects
 				(font
 					(size 1 1)
@@ -16516,7 +16488,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "180cb55a-3795-45f7-a43b-edf287ad8d94")
+			(uuid "ba286d70-af33-4261-946f-d5503959a489")
 			(effects
 				(font
 					(size 1 1)
@@ -16528,7 +16500,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "93127bbf-7b9e-41e8-b7b2-4ec09ca7bb50")
+			(uuid "78ef22f8-7281-4233-874a-ecacbd5613f8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16540,7 +16512,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5e8c663d-08b9-4581-a603-cca32dfee6cb")
+			(uuid "90e6693b-847b-4cdf-86d3-e8d6fe67db64")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16790,7 +16762,7 @@
 		(property "Reference" "D61"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "34861c00-4651-47df-ad59-c9d7cdb660f3")
+			(uuid "60b1a1b7-658d-47e1-b05b-1bb34a271f0c")
 			(effects
 				(font
 					(size 1 1)
@@ -16801,7 +16773,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "38c401e3-3497-4b77-b062-5abdd1a691ae")
+			(uuid "0b1984d4-9087-46df-a761-fe97ae9e6f51")
 			(effects
 				(font
 					(size 1 1)
@@ -16813,7 +16785,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ed12e226-5896-44b6-a8ce-c2c1268c6cdb")
+			(uuid "0e95e73a-d1c8-4014-be01-328a57a42686")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16825,7 +16797,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6c773fb5-b088-4b52-8969-769033ad3184")
+			(uuid "c11b6538-d5a1-417a-b225-b4fd63b2593e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17067,7 +17039,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "7eba087f-6283-4d93-821f-b922322d5711")
 		(at 137.6 49.9)
@@ -17353,7 +17324,6 @@
 		)
 	)
 	(footprint "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "807238b1-67d4-4dde-a6d1-12be65fd5f5c")
 		(at 438.75 56.5 180)
@@ -17764,7 +17734,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "81bbcee2-624b-4109-a5c4-2d8d5a0a0094")
 		(at 274.55 49.76)
@@ -18058,7 +18027,7 @@
 		(property "Reference" "D5"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "4903aa23-1746-41db-b7a1-31ebf778415c")
+			(uuid "524d1e97-fcd3-42b5-b0a6-b74d4fde8358")
 			(effects
 				(font
 					(size 1 1)
@@ -18069,7 +18038,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "3ad829e0-3c18-4dbb-b5a2-5c649addd7aa")
+			(uuid "454280b9-32fd-4e3f-88ee-a1c244562014")
 			(effects
 				(font
 					(size 1 1)
@@ -18081,7 +18050,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e1d8cc6d-a274-4193-a77a-645bd2326749")
+			(uuid "8e81f80e-d644-4fdc-9e07-1cbd2a4148d8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18093,7 +18062,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4aa0b15e-52c3-4d4c-9412-0b07455ff49b")
+			(uuid "81168747-9bb9-4558-a23f-ea37d5dc26bf")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18343,7 +18312,7 @@
 		(property "Reference" "D47"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "54512a0a-6d4b-4615-bf12-8b526b5dc866")
+			(uuid "9dee44b0-3206-4853-b215-a4ee6fc90d19")
 			(effects
 				(font
 					(size 1 1)
@@ -18354,7 +18323,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "d5067975-e430-418c-86ae-11fadb8f700e")
+			(uuid "6540a861-c92b-4edc-989e-b458deda0d64")
 			(effects
 				(font
 					(size 1 1)
@@ -18366,7 +18335,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1ac3185e-a854-4caa-b1f2-550cbb2309b8")
+			(uuid "8b93efd2-e3be-4cdf-a0d4-a27ad06544c3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18378,7 +18347,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d547d2e4-f117-4ff6-83f0-0d993132a20b")
+			(uuid "f85222e5-5605-4b6d-985f-9442bbe150d0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18620,7 +18589,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "86f3ac90-f8e5-4c4a-bcd5-e326d73481c7")
 		(at 308.5 88.9)
@@ -18906,7 +18874,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "874009ea-9b6e-4d59-9d28-acc8f098dd08")
 		(at 343.46 69.62)
@@ -23255,7 +23222,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "8a2ceecb-432b-472b-bcf1-567acbcef11c")
 		(at 294.35 49.76)
@@ -23541,7 +23507,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "8d47c083-7134-4056-b614-1a3adfa935cf")
 		(at 161.75 128.2)
@@ -23835,7 +23800,7 @@
 		(property "Reference" "D56"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "72555973-e567-4744-8243-d44b7b629b38")
+			(uuid "7fe44d76-5cee-4bcb-87ff-b17994bf7542")
 			(effects
 				(font
 					(size 1 1)
@@ -23846,7 +23811,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "ab4f9877-6dd8-4087-952d-dfc3cf178ae0")
+			(uuid "cd6b14bc-52d3-4928-ba33-6411f2e2198d")
 			(effects
 				(font
 					(size 1 1)
@@ -23858,7 +23823,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8c233003-7930-4915-bfcf-2ded1c8c7761")
+			(uuid "04e2f7a5-2aa7-4c68-ac1e-30346ddfc706")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23870,7 +23835,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b4f7d01e-609e-47fe-ac64-207ed2c29cff")
+			(uuid "54c6d927-9f75-43e6-b2b9-54cd0c7e2ec0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24112,7 +24077,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "8ecb330f-5e00-4146-901b-1194207d882b")
 		(at 344.66 128.17)
@@ -24406,7 +24370,7 @@
 		(property "Reference" "D16"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "3788baa5-d5ea-4595-bcb9-55e97bc05608")
+			(uuid "fcc0cc20-80e7-478a-8470-eaa7e4dceec7")
 			(effects
 				(font
 					(size 1 1)
@@ -24417,7 +24381,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "c9ec60b0-76cf-4e14-a4b6-76bd76b1c0ef")
+			(uuid "e4e6f05f-6322-4a94-9dc4-c9cd842c46ed")
 			(effects
 				(font
 					(size 1 1)
@@ -24429,7 +24393,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "df215a43-0f73-48dd-b5c7-a9958483b4e9")
+			(uuid "f6355ffb-c9e3-4f5a-b50a-28fbfc0666a6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24441,7 +24405,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9424fc86-3501-4005-9cc0-ce039c2d72f3")
+			(uuid "2f77879a-d573-4cbe-9a3d-530cb4a473f7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24691,7 +24655,7 @@
 		(property "Reference" "D9"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "e23dbfe0-1052-44e2-b944-9816ec951815")
+			(uuid "177a82ec-4616-451a-86b5-141d2056ac36")
 			(effects
 				(font
 					(size 1 1)
@@ -24702,7 +24666,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "185494c6-dd54-4b6d-b711-aea6a4876d45")
+			(uuid "8a15f414-9683-486e-8f36-b626874597ba")
 			(effects
 				(font
 					(size 1 1)
@@ -24714,7 +24678,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "176d7683-1262-42c3-8960-bfaf2f29965d")
+			(uuid "76440c83-a463-461c-9e7b-b0c442740b3f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24726,7 +24690,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1c881b95-f7d6-4317-9926-feb0461dfddd")
+			(uuid "f747dbdb-e55b-45b5-aa67-2fa41f72dec7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24976,7 +24940,7 @@
 		(property "Reference" "D15"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "c0c8ce83-446a-4d78-b791-cc4873fee370")
+			(uuid "95fe6f3a-fbd6-48a8-893d-c65ea57d5dbe")
 			(effects
 				(font
 					(size 1 1)
@@ -24987,7 +24951,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "c81c6eaa-c018-4c50-ab20-9df26603a887")
+			(uuid "8d6a601b-5bb2-4d22-8166-000090fdf8f7")
 			(effects
 				(font
 					(size 1 1)
@@ -24999,7 +24963,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7ea88da3-ec5a-4a9a-a52d-2129a30becd7")
+			(uuid "e95f7775-b5fd-47c9-bcbb-809c1a3afbb9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25011,7 +24975,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "54161ac7-8e1b-4642-a5f7-403da3fc217f")
+			(uuid "dc4cf090-4200-4003-8481-29a9ee18cfad")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25253,7 +25217,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "90c52f0c-6fac-4f49-a8dd-c836facf0909")
 		(at 225.35 69.36)
@@ -25547,7 +25510,7 @@
 		(property "Reference" "D59"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "b0f99ddc-e15f-4e33-8a6e-fc137fb4d356")
+			(uuid "0cdaf946-02d3-49b0-b574-7434bfb408fd")
 			(effects
 				(font
 					(size 1 1)
@@ -25558,7 +25521,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "a46e01cf-fc93-427e-aa26-30e4e8df1c23")
+			(uuid "42a1eb9a-4c03-412e-99b9-15646da80b34")
 			(effects
 				(font
 					(size 1 1)
@@ -25570,7 +25533,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9c9e0d11-43f6-42f3-a5eb-440e07c6dd11")
+			(uuid "2aa32de4-8751-43f6-993f-dfb1a1bb901a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25582,7 +25545,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "06cdf057-eccb-4425-bb48-14d3bc6aab69")
+			(uuid "865759ec-b6ab-400b-8279-db70589831c7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25824,7 +25787,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "939f7f53-c0a8-465e-88a2-a185328ba31e")
 		(at 435.45 108.86)
@@ -26118,7 +26080,7 @@
 		(property "Reference" "D26"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "53906826-cd28-422f-98af-e76865251874")
+			(uuid "6931a8f3-bd49-495d-9cea-20f88f968c70")
 			(effects
 				(font
 					(size 1 1)
@@ -26129,7 +26091,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "35790955-2903-474e-84a4-6f57b9306da2")
+			(uuid "d3ecb95b-014b-4f8f-89bf-e355c6980514")
 			(effects
 				(font
 					(size 1 1)
@@ -26141,7 +26103,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2d1a3516-2d41-4435-a24e-ceb4cc06a8bb")
+			(uuid "0c8cf803-7359-419d-af44-2f56ac0883a5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26153,7 +26115,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ea54217c-a2ee-49a7-8a63-e8ee39a3f216")
+			(uuid "27099785-f7fd-454b-9a6d-380f40e4341d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26403,7 +26365,7 @@
 		(property "Reference" "D54"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "c75b93f2-b631-409e-9823-e8c30c7c521e")
+			(uuid "e8b1e1d4-6744-4d12-a803-02fca2df7278")
 			(effects
 				(font
 					(size 1 1)
@@ -26414,7 +26376,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "637b1f32-57d5-4d64-be7c-a3f5f9576b6c")
+			(uuid "5b513f6b-527a-486a-ade7-b7b79180c09b")
 			(effects
 				(font
 					(size 1 1)
@@ -26426,7 +26388,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "dccac4ed-d9ca-43c9-9829-b7297416c03d")
+			(uuid "bc52846e-0e1d-434f-8b38-3b3ed29606a1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26438,7 +26400,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f8afcdc3-5217-4b96-bf54-2bafa682be11")
+			(uuid "d4586dbc-a979-4420-93d8-f4d0d662e0e5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26688,7 +26650,7 @@
 		(property "Reference" "D41"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "7d81560b-d304-451b-a28f-ad3c7f1854a2")
+			(uuid "3b487343-0c1f-4b22-9c6d-c146da336e06")
 			(effects
 				(font
 					(size 1 1)
@@ -26699,7 +26661,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "0ba835ba-2eb9-474b-9080-3d2ef69dbab3")
+			(uuid "955aa0c3-c9ed-4fea-b738-b90f3d233d4d")
 			(effects
 				(font
 					(size 1 1)
@@ -26711,7 +26673,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fab1d804-f968-4a9b-8e98-5b96e076a228")
+			(uuid "9c35664c-80f6-48d0-b1e2-45ca779e1ecf")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26723,7 +26685,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9a38597f-b797-4c76-97d8-35f5c6e6a2a6")
+			(uuid "a14405bf-67f5-48c2-906e-9a6fe3a77a27")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26973,7 +26935,7 @@
 		(property "Reference" "D7"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "461269c9-c09f-4f2d-a26e-24bea1f71d3f")
+			(uuid "30f04c47-3fb7-4dd9-89f1-bd5367a75aed")
 			(effects
 				(font
 					(size 1 1)
@@ -26984,7 +26946,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "25affe12-e242-435b-9423-a74a3ccdce6c")
+			(uuid "d433635f-8168-4c1a-a0af-611ebb6fa308")
 			(effects
 				(font
 					(size 1 1)
@@ -26996,7 +26958,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "06456dfd-049b-49b5-b973-9d8a494d72a9")
+			(uuid "60d9258c-e667-4e79-b3df-99250ff16b94")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27008,7 +26970,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "de762e18-ef12-4ae7-85a2-ab547882b03c")
+			(uuid "107cf9f0-33d2-432a-a3f5-5d4211905173")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27250,7 +27212,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "9a7cc8ad-ffc1-4ec0-81a9-ab38b78e0da0")
 		(at 166.65 69.46)
@@ -27536,7 +27497,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "9ac495a0-2730-4fea-9571-35c0e25f4158")
 		(at 386.85 128.2)
@@ -27830,7 +27790,7 @@
 		(property "Reference" "D62"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "0ebc1f1e-54e8-4080-85d4-ce6992e22f6e")
+			(uuid "fce4011e-7a74-41c4-b75c-c06844ce3598")
 			(effects
 				(font
 					(size 1 1)
@@ -27841,7 +27801,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "ac53caf3-ea15-465f-b4f8-0190ef5a0cfd")
+			(uuid "53c56513-c487-4d16-8a2d-ab5390725393")
 			(effects
 				(font
 					(size 1 1)
@@ -27853,7 +27813,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8158ff23-9338-41d9-9199-1e7b4f29b88e")
+			(uuid "0798d6f0-d03f-47fd-b8f2-a79b8961b166")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27865,7 +27825,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bc34383d-b4a8-4c88-97eb-3e49cf4d77b7")
+			(uuid "a2cc5336-f591-45b6-bb4b-cefe580a59b7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28115,7 +28075,7 @@
 		(property "Reference" "D31"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "f843e7f8-ba86-41bd-b5a9-94cd6e4af900")
+			(uuid "7e758647-aa57-46b1-8b5a-0ead47b2f1e1")
 			(effects
 				(font
 					(size 1 1)
@@ -28126,7 +28086,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "664d94fe-cf2e-4276-aa59-02f70c51c5e4")
+			(uuid "4aaf0e74-1cc2-46bb-a425-d5a186ded9f2")
 			(effects
 				(font
 					(size 1 1)
@@ -28138,7 +28098,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "38652972-19b5-409a-9ba8-68abd3b133cc")
+			(uuid "a2f764f8-ec0f-42ed-9437-ce6e152dc4ee")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28150,7 +28110,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1787a342-bc98-4fcf-969a-6227804efa93")
+			(uuid "541df434-d658-4e61-af27-8edc252a9724")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28392,7 +28352,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.75u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "9dae38c2-131a-46f4-b8a2-1233fb0b9993")
 		(at 144.7 89.1)
@@ -28678,7 +28637,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "9f5f9759-212f-45e2-9d43-6780ccd482b5")
 		(at 382.55 69.36)
@@ -28972,7 +28930,7 @@
 		(property "Reference" "D50"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "b412e4d0-94ea-4ddf-80d9-ec3592aa54bd")
+			(uuid "7252bdd9-c353-4081-a650-6f4040cdfccd")
 			(effects
 				(font
 					(size 1 1)
@@ -28983,7 +28941,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "a3f8aee0-557d-451c-9afa-961064bb2da7")
+			(uuid "b7cdfbce-52b9-4dbe-89d2-0d2eba3ec94d")
 			(effects
 				(font
 					(size 1 1)
@@ -28995,7 +28953,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f1ad757c-270a-46b9-a194-99fa6572fe4c")
+			(uuid "ffe97bc9-3422-4443-83d3-cde8adf134c6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29007,7 +28965,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "822e31d8-0db7-45ab-bd2b-863c884ba641")
+			(uuid "b7770141-bcdc-43db-8a95-fb9ffdb77346")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29257,7 +29215,7 @@
 		(property "Reference" "D4"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "77882d91-a73e-404b-ad82-c29bca4a5442")
+			(uuid "a68da203-8acb-4a3b-9371-93389ecd9e4a")
 			(effects
 				(font
 					(size 1 1)
@@ -29268,7 +29226,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "99dc8ef9-965e-4022-ab08-2d0361a2dd9c")
+			(uuid "fd0d60b6-08e0-4cae-8c9a-d3dc7cf1a3ac")
 			(effects
 				(font
 					(size 1 1)
@@ -29280,7 +29238,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f9ceacc4-33c3-43c0-b17d-e43f3d7bd487")
+			(uuid "afca29f5-ef0e-4474-a602-a158e4e59a43")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29292,7 +29250,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "52ce9560-f478-4e73-b0f6-ab90d99999ae")
+			(uuid "2e185454-05c1-494f-8efd-1154cc8ddbd7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29534,7 +29492,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "a17c4d75-9cb1-4170-8777-8493a7517c25")
 		(at 406.75 69.36)
@@ -29820,7 +29777,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "a380248d-ab8f-4c0d-b550-ffea56b9dadb")
 		(at 318.6 108.8)
@@ -30106,7 +30062,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "a4213428-ec97-45b4-aff5-1c6b7f504b8d")
 		(at 259.5 108.7)
@@ -30392,7 +30347,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "a4b0d778-e242-4a0c-ba75-f41f9786dbc3")
 		(at 171.4 89.2)
@@ -30686,7 +30640,7 @@
 		(property "Reference" "D27"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "2f597d0c-d4c6-4ffa-b661-e53d834b4e87")
+			(uuid "5103a38e-4272-4ed0-85e9-328feb36c2ce")
 			(effects
 				(font
 					(size 1 1)
@@ -30697,7 +30651,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "11d5f23c-79e0-40f0-8c01-d38fc1dd5b63")
+			(uuid "db799a36-3438-438b-9d9e-984dff9e5ca7")
 			(effects
 				(font
 					(size 1 1)
@@ -30709,7 +30663,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "853d2295-44e7-46e6-96da-e7183b1d5e3c")
+			(uuid "f9882482-62e3-4a83-ae00-566c930139c3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30721,7 +30675,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5738187a-36f1-46c1-9520-25a08014577d")
+			(uuid "a47d8365-b4d8-4cb2-bbed-221d2a5c6e72")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30971,7 +30925,7 @@
 		(property "Reference" "D18"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "04f1dfb4-6254-464d-b15f-8648d9045b5e")
+			(uuid "58b9d2c5-e62c-44ba-9b45-3206b981f1ab")
 			(effects
 				(font
 					(size 1 1)
@@ -30982,7 +30936,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "950521a3-27dc-4379-a0c9-fa83e3e1c53d")
+			(uuid "21c77b29-719a-478d-b983-d114873ed2f0")
 			(effects
 				(font
 					(size 1 1)
@@ -30994,7 +30948,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4c008817-4233-4bd8-bb67-b35839446798")
+			(uuid "e0799407-a57a-4192-bc31-fb0d3c4fdabe")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31006,7 +30960,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "45486cee-b4bd-461a-8b04-8bb73e7caa40")
+			(uuid "7c633d39-c17d-4c82-80da-b5dab4e4592d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31248,7 +31202,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "a877471d-7423-48fb-9e26-bc7fd3345d69")
 		(at 196.22 49.86)
@@ -31534,7 +31487,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "a8ad0a77-e800-4975-b381-176f17e219ed")
 		(at 366.95 128.1)
@@ -31820,7 +31772,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_6.25u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "a9843f3f-d519-483b-8852-6b95ed551cc6")
 		(at 271.21 128.12)
@@ -32142,7 +32093,7 @@
 		(property "Reference" "D64"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "c3fd17a9-d15a-4bdc-a702-ff80326d51bd")
+			(uuid "e4907dce-7558-43af-a877-847555c2fe8a")
 			(effects
 				(font
 					(size 1 1)
@@ -32153,7 +32104,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "1bb2e1bb-6ab7-497e-a058-8f4118fb942b")
+			(uuid "2a5cc873-ec2f-48c8-bec6-8ad6dc786017")
 			(effects
 				(font
 					(size 1 1)
@@ -32165,7 +32116,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "99a34f1c-cae9-47b8-9ab5-5f91f5683a0e")
+			(uuid "625720fc-79c5-47ad-bfe2-38641b5a208f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32177,7 +32128,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5a7e99e9-ff6a-407b-8dfd-0ecff81b58b9")
+			(uuid "c0a7485a-9bdf-438f-b228-a92078535fd9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32427,7 +32378,7 @@
 		(property "Reference" "D44"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "2ebec15b-e9c1-4b4a-8531-d5b77ec02b52")
+			(uuid "3578d436-2699-4192-89d7-d22e7ba4d3a8")
 			(effects
 				(font
 					(size 1 1)
@@ -32438,7 +32389,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "4525c584-42b1-47f3-96b7-41a9b921801b")
+			(uuid "dad1eab1-2b03-4a80-a372-31b1b84aac1e")
 			(effects
 				(font
 					(size 1 1)
@@ -32450,7 +32401,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "754c7705-7a85-4c9e-83ed-ff17a649be5f")
+			(uuid "39db91e8-6662-4ac3-8dc1-e11e8bee16d6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32462,7 +32413,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8c30c386-7f6c-4a7a-a9fb-3e6ac31f8de6")
+			(uuid "ef1c9b96-1a5e-4e07-8700-b5ac07bd9715")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32712,7 +32663,7 @@
 		(property "Reference" "D67"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "8da1cdb8-369d-4ed4-85d6-10d91f5af053")
+			(uuid "aea6a07e-1fb7-4081-bc8e-abfb3eeeb694")
 			(effects
 				(font
 					(size 1 1)
@@ -32723,7 +32674,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "8f6c597d-e354-4304-8ad8-8db1be0ba179")
+			(uuid "8b08ed10-232d-456e-8044-fed69f2314c2")
 			(effects
 				(font
 					(size 1 1)
@@ -32735,7 +32686,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c7fb685c-e3ef-48e3-97a6-9800d1f53e50")
+			(uuid "5085c231-4850-4089-8901-ee81699f7d50")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32747,7 +32698,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c85933dc-e1aa-49ef-a58b-edb5f7697a92")
+			(uuid "7316a7f2-9e24-44fd-bb4c-3c1f042f4fc7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32997,7 +32948,7 @@
 		(property "Reference" "D3"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "07ce1f70-3741-4650-b1be-2d7345039387")
+			(uuid "50521692-9425-4347-ad00-85d35f9f0cb0")
 			(effects
 				(font
 					(size 1 1)
@@ -33008,7 +32959,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "d581c813-0581-4a34-af92-9f8b9020b403")
+			(uuid "2b7ad314-9bf8-4c33-933a-eb78f7a0342f")
 			(effects
 				(font
 					(size 1 1)
@@ -33020,7 +32971,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "54d08842-a702-4add-91a2-90a63855d90a")
+			(uuid "28cddbe3-e1f7-4013-a824-9261bb12271a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33032,7 +32983,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "643cc224-8660-4d61-a479-da5248a0f105")
+			(uuid "113989f8-9fa6-400d-8e26-46a284f47f5d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33274,7 +33225,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "b24127f9-78a8-4276-951e-b00ce3b54ee7")
 		(at 358.14 108.8)
@@ -33560,7 +33510,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "b33390f2-7696-46ee-ae81-893cfc0f279e")
 		(at 200.55 128.1)
@@ -33846,7 +33795,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "b69dddbc-9b2b-4bea-808f-c26815b29701")
 		(at 176.75 49.86)
@@ -34132,7 +34080,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "bc133e64-f381-4526-ab7a-91db8e203685")
 		(at 368.05 88.96)
@@ -34418,7 +34365,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_2.75u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "c4184df0-6bbf-4e4d-b882-5865e295128e")
 		(at 394.84 108.72)
@@ -34740,7 +34686,7 @@
 		(property "Reference" "D19"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "8b8c379c-09a5-45d1-8bdf-51a02a4920f9")
+			(uuid "90b9bd33-e365-47ff-8625-ae81d4ec3099")
 			(effects
 				(font
 					(size 1 1)
@@ -34751,7 +34697,7 @@
 		(property "Value" "~"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "9beeeff9-e7b4-4ef4-bb49-3e1a5a236356")
+			(uuid "8520f3a7-7932-41c0-ba3f-afae4b51019e")
 			(effects
 				(font
 					(size 1 1)
@@ -34763,7 +34709,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "64647439-dee8-45e0-ae1c-4375b5e22867")
+			(uuid "17e528ba-e251-43a8-bec9-8b2f55874a50")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34775,7 +34721,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "83498fa8-6811-452f-8342-2e3387433d72")
+			(uuid "9865ebc8-f33b-4db8-860f-688573770ee1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35025,7 +34971,7 @@
 		(property "Reference" "D25"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "ab5a23b0-25ac-42cc-a7b6-8366479a00f1")
+			(uuid "32be3669-87b1-4b78-bce5-7d36686b4dd3")
 			(effects
 				(font
 					(size 1 1)
@@ -35036,7 +34982,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "dc8e5bed-b9e7-42d1-af9b-9d21b724060c")
+			(uuid "5c271019-7284-474c-8659-fe43d369c1ee")
 			(effects
 				(font
 					(size 1 1)
@@ -35048,7 +34994,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "71816d3e-7a0d-4737-a525-a6ef2fb7c88e")
+			(uuid "e0299566-6d79-4b90-be25-88b8a1b21fdd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35060,7 +35006,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "dd4e1f53-221c-4dab-966a-badb5abc6870")
+			(uuid "66edf320-97f9-487f-86d1-f5c7aff9b67c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35310,7 +35256,7 @@
 		(property "Reference" "D36"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "de7fc556-7901-4b06-bac4-80e6c9a4ad1c")
+			(uuid "153e6d5f-60ef-48ea-82a1-4ae7be88d681")
 			(effects
 				(font
 					(size 1 1)
@@ -35321,7 +35267,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "9fe5c35f-87c1-49a9-a5e1-b8bcee237021")
+			(uuid "d956282b-5738-4f1d-aea0-2f66e9e1b835")
 			(effects
 				(font
 					(size 1 1)
@@ -35333,7 +35279,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cc48066c-b6fe-439d-b04c-970752a4e9e4")
+			(uuid "ce4886e5-11a1-4268-9797-5e1007b22c14")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35345,7 +35291,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "008ff5bd-56eb-4fe1-be89-a3ee5495fe8b")
+			(uuid "10eb57cf-5bad-4996-baeb-821506338600")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35587,7 +35533,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "cb72b5c5-b29e-4259-86d9-20b07935c67d")
 		(at 284.25 69.46)
@@ -35873,7 +35818,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "cd9b7a86-97fc-4852-90bc-05d10ab29cb6")
 		(at 249.5 89.1)
@@ -36159,7 +36103,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "ce6cd802-6111-4bfe-92e3-51f323804223")
 		(at 333.65 49.76)
@@ -36453,7 +36396,7 @@
 		(property "Reference" "D30"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "0953cdaf-222e-49c7-9419-3b27318e4726")
+			(uuid "66c4be79-51b9-4ff9-91b7-0158b2d02720")
 			(effects
 				(font
 					(size 1 1)
@@ -36464,7 +36407,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "0b0d6ce8-1a2f-4593-802a-f2462404d31a")
+			(uuid "970b068c-97a1-4f8a-974a-0b51a770294b")
 			(effects
 				(font
 					(size 1 1)
@@ -36476,7 +36419,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ab7a3527-fa96-4fcc-99f3-d37ae511d356")
+			(uuid "08fea62b-24b9-4d49-907e-d8d4e4074f33")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36488,7 +36431,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5df058af-9bd1-4a34-8863-255bfef84f43")
+			(uuid "b7a0f168-f240-41de-bdde-40321282fc78")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36738,7 +36681,7 @@
 		(property "Reference" "D28"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "89446f51-1280-4ae3-9b49-d4440b9208b3")
+			(uuid "df84517b-465b-4924-a0fd-871b757fe65c")
 			(effects
 				(font
 					(size 1 1)
@@ -36749,7 +36692,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "63965f84-57ff-4463-947e-febb9bfa90c2")
+			(uuid "51cf70b5-56e3-42db-afc3-095c945d18b1")
 			(effects
 				(font
 					(size 1 1)
@@ -36761,7 +36704,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fcfef355-ba29-4963-83a1-a6086ac1eea9")
+			(uuid "d8f4682d-d531-41fe-b07f-ae95cd8d2e59")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36773,7 +36716,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "17ee2115-3d5f-4775-9e6b-1e3e29388917")
+			(uuid "a5841290-c661-4536-b55a-107f280742fd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37023,7 +36966,7 @@
 		(property "Reference" "D58"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "89e93eac-1feb-4b2e-9e7b-a4bc458b002b")
+			(uuid "ac67ad18-9a9c-40a2-8d7c-1b9aa894356c")
 			(effects
 				(font
 					(size 1 1)
@@ -37034,7 +36977,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "c1fba9e4-f1a5-440e-b882-d5597e1c3c3a")
+			(uuid "d09934b7-b509-42f4-9535-79d65436b913")
 			(effects
 				(font
 					(size 1 1)
@@ -37046,7 +36989,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3f7e8991-525b-4343-8ed5-52676f4743c5")
+			(uuid "d4362c47-3a53-49d5-ac5d-e91f95a5e0c1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37058,7 +37001,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bfde7d2e-4391-4ea3-b90f-cde7beb8c79f")
+			(uuid "901163c2-b375-4cea-99ef-a9833d1b1237")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37308,7 +37251,7 @@
 		(property "Reference" "D46"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "40535373-3fe6-4c69-b99c-b8a5865d4b2e")
+			(uuid "edeb1d9f-bc71-4d16-a6a3-e58e932b3aaf")
 			(effects
 				(font
 					(size 1 1)
@@ -37319,7 +37262,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "91d97b16-c032-433e-97a8-1d9d3d16bf32")
+			(uuid "532ad373-939e-4169-a9cf-0fc76d29d149")
 			(effects
 				(font
 					(size 1 1)
@@ -37331,7 +37274,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5f08e138-9ea3-48a9-ba03-b9bfbf554fd3")
+			(uuid "432a827b-84c4-4839-bcbe-3355d9826702")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37343,7 +37286,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3b9b824e-5aba-40ab-98c8-d6011a394a43")
+			(uuid "65e12b43-77aa-4337-a365-1b296e2248f6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37593,7 +37536,7 @@
 		(property "Reference" "D14"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "a079d943-5775-4f88-b4ee-9e55af610413")
+			(uuid "789edabd-18bf-4f44-af04-191c25124380")
 			(effects
 				(font
 					(size 1 1)
@@ -37604,7 +37547,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "037eb2e6-be4d-4ee2-af50-6e6363859000")
+			(uuid "d00074b6-b0e8-46ff-9e7d-d3928d2b02d9")
 			(effects
 				(font
 					(size 1 1)
@@ -37616,7 +37559,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "13d842d7-500c-4123-8206-17526293e966")
+			(uuid "79e47669-b618-4e4d-823f-1270ae1014a8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37628,7 +37571,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "336e5be8-ab69-4530-8ef9-78561d23078b")
+			(uuid "c1acd0b7-defb-4a82-94dc-43e600e8d263")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37870,7 +37813,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "ded785cb-0f40-4847-9846-02c781406ac5")
 		(at 229.8 89.1)
@@ -38164,7 +38106,7 @@
 		(property "Reference" "D49"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "737cfabb-a8a9-4026-8ec3-ff22cf752e2e")
+			(uuid "7f85baf3-06db-4f9c-9821-9de22c140fb7")
 			(effects
 				(font
 					(size 1 1)
@@ -38175,7 +38117,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "9dac2096-c756-4466-b145-9197f36544d1")
+			(uuid "f285c2d5-a2e5-4c46-b2c4-029be1b1ca45")
 			(effects
 				(font
 					(size 1 1)
@@ -38187,7 +38129,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2d837ac1-1a3b-490a-8238-a4233c6f2408")
+			(uuid "81c0c8c9-007d-4d71-925c-689240de5439")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38199,7 +38141,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "81e5c309-c593-4c1e-9f6c-e3a728fa3af3")
+			(uuid "d2a73e19-a432-4d55-9e20-b183f3dc8b5e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38449,7 +38391,7 @@
 		(property "Reference" "D21"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "40c244e1-7490-4ea2-b338-787ded73bd4c")
+			(uuid "89645343-8d59-4027-bb0d-28e6e6fc2f6d")
 			(effects
 				(font
 					(size 1 1)
@@ -38460,7 +38402,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "a049748d-0403-43e9-9f9f-e06e29f3c20d")
+			(uuid "2f37af65-2606-4bf6-b1a5-a62801ac7a5a")
 			(effects
 				(font
 					(size 1 1)
@@ -38472,7 +38414,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "43279cda-cf52-42a7-8990-80e46f0415f2")
+			(uuid "6c747009-63dc-47ee-b306-cccd3aab852c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38484,7 +38426,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "370e8a9e-d9fb-442d-8e30-f542c6bdc17d")
+			(uuid "617a5049-d696-416b-a24b-d32b4ec08eaa")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38726,7 +38668,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "e38270c2-8ea2-44ad-a208-ed453a7c6f6a")
 		(at 181.15 128.2)
@@ -39012,7 +38953,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "e3ec9077-a84d-481d-9317-26dd73b0cbb0")
 		(at 435.45 89.16)
@@ -39298,7 +39238,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "e76ac1c1-c39a-44f9-88b5-9f21c8af6e78")
 		(at 254.95 49.66)
@@ -39584,7 +39523,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "e9f9cb0d-84f3-44ad-bd0b-805513ec9403")
 		(at 288.8 88.9)
@@ -39870,7 +39808,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "edf53278-568f-48c1-b5ad-eaa62405a4c2")
 		(at 264.55 69.46)
@@ -40156,7 +40093,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "f262d881-c547-468d-9f8b-43e7fd2cfd30")
 		(at 363.05 69.46)
@@ -40450,7 +40386,7 @@
 		(property "Reference" "D66"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "578be749-def1-4a1f-a9fd-685d49e30e30")
+			(uuid "16e4bf29-c42c-454c-890d-04dfaa7cb319")
 			(effects
 				(font
 					(size 1 1)
@@ -40461,7 +40397,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "756411ea-7eaa-4d5d-8279-2b8a45e574ed")
+			(uuid "b1f89696-7121-4ff9-aa2b-72814d7008c0")
 			(effects
 				(font
 					(size 1 1)
@@ -40473,7 +40409,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d5dc536e-f0d4-4b2b-b61a-d313a3a1bbcf")
+			(uuid "b564c73e-ac98-44fc-bf83-54ec0f37cd10")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40485,7 +40421,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4bece8b3-d9c9-46dc-b0b7-6dc66054f525")
+			(uuid "df02c1b4-c13d-49d6-a5f1-742579db6f68")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40735,7 +40671,7 @@
 		(property "Reference" "D45"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "43c816ff-7c19-487c-a19d-36d83bed1c24")
+			(uuid "63c838b1-6838-456c-a83d-cebcd14ab22e")
 			(effects
 				(font
 					(size 1 1)
@@ -40746,7 +40682,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "38eec702-863b-46dc-8fa3-4289415fabc1")
+			(uuid "28ad99ed-0e78-42f0-b3b5-1c9218766109")
 			(effects
 				(font
 					(size 1 1)
@@ -40758,7 +40694,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d7c21f4b-6f0b-4ed2-a6c1-68e94244edfa")
+			(uuid "189a678e-6103-4a2f-b908-2e4b61e3d32b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40770,7 +40706,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ae501f47-033a-4c40-88ca-2f4d644e43dd")
+			(uuid "e679ff40-da9f-45ff-a720-6782511c7e58")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41012,7 +40948,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "f7a3e06c-7f02-4e3c-b70f-b12735fa1635")
 		(at 220.1 108.7)
@@ -41298,7 +41233,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "f7eb462c-9b60-4baa-80fa-d93e77145aa7")
 		(at 210.3 89.1)
@@ -41592,7 +41526,7 @@
 		(property "Reference" "D33"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "65636421-ddb2-4183-8d1d-badbfc421c04")
+			(uuid "37db987c-1a9e-4e04-b352-de7b630cb0fa")
 			(effects
 				(font
 					(size 1 1)
@@ -41603,7 +41537,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "8508ad33-92a5-405a-9ec8-9bac0ec3e420")
+			(uuid "89b937ed-7f00-4653-94bd-f89c615b2b85")
 			(effects
 				(font
 					(size 1 1)
@@ -41615,7 +41549,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f34f05aa-d158-4f04-ad35-4671e08058ce")
+			(uuid "323ab059-efa0-424d-bceb-ea23c6ead072")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41627,7 +41561,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e3e2636e-9c57-4d4c-bb38-f48e13f6018e")
+			(uuid "abda1db7-86ac-426d-97c2-bcdfb7a0ae24")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41869,7 +41803,6 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_2.25u_PCB"
-		(locked yes)
 		(layer "F.Cu")
 		(uuid "ff05829c-f641-4acb-81b4-fa62c98ea895")
 		(at 399.64 89.02)
@@ -42191,7 +42124,7 @@
 		(property "Reference" "D1"
 			(at 7.62 3.785 0)
 			(layer "B.SilkS")
-			(uuid "d0831947-8d64-412a-84ae-dd472175b72d")
+			(uuid "4b1e4b57-2724-493c-b807-71bea50dfd58")
 			(effects
 				(font
 					(size 1 1)
@@ -42203,7 +42136,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 -3.785 0)
 			(layer "B.Fab")
-			(uuid "ae84a667-4e7c-4b2d-a70b-34bafc50fb3d")
+			(uuid "9b8bc73c-77b6-4fa8-ba0e-01dcb37d9ab5")
 			(effects
 				(font
 					(size 1 1)
@@ -42216,7 +42149,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "31afbd1d-ea78-4c78-9910-8ce5a526a009")
+			(uuid "fce8ff9d-a59c-4962-bc3e-3a8f2c87ffae")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42229,7 +42162,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "2d18fd5a-89c3-4942-99c7-3ac623957066")
+			(uuid "7ad0a77e-988c-470c-b00d-ffca6d42cbec")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42478,7 +42411,6 @@
 	)
 	(group ""
 		(uuid "081aa036-daad-4b13-b790-ddbf1fd623c5")
-		(locked yes)
 		(members "052a2a23-c6eb-4ed9-bfd7-2b49bc2c5ffe" "1296f65c-af54-469f-8dfc-b4a44fd5d407"
 			"2894484b-00eb-4f93-a4d7-cf75be9e737c" "33b86a44-3158-4fb6-bd3c-0a80480a62ec"
 			"436b2ded-8389-42d2-9bed-1c9cae9b37fa" "52b727a2-a24a-4391-abc4-37496c2ce4d3"
@@ -42489,7 +42421,6 @@
 	)
 	(group ""
 		(uuid "6a1504ca-ae2c-4565-8278-ccecc710a174")
-		(locked yes)
 		(members "19d5792e-d4cf-4936-9c59-56f08209b196" "283a848b-a3cb-4a78-b7c5-5718bf062408"
 			"8d47c083-7134-4056-b614-1a3adfa935cf" "8ecb330f-5e00-4146-901b-1194207d882b"
 			"9ac495a0-2730-4fea-9571-35c0e25f4158" "a8ad0a77-e800-4975-b381-176f17e219ed"
@@ -42499,7 +42430,6 @@
 	)
 	(group ""
 		(uuid "72251987-4d70-456a-ba45-db5e4d51920f")
-		(locked yes)
 		(members "1410b049-3d72-4a18-b5dc-c53073636d4e" "184fb7a7-185d-4416-87b7-12bd99576b60"
 			"3a3367e1-7dfb-45bd-85a7-f9138dbedead" "4041bdb0-171f-42d9-a00f-09709f88d6f0"
 			"86f3ac90-f8e5-4c4a-bcd5-e326d73481c7" "9dae38c2-131a-46f4-b8a2-1233fb0b9993"
@@ -42511,7 +42441,6 @@
 	)
 	(group ""
 		(uuid "c104a6c0-9c61-42ae-8abf-e31013aa83dc")
-		(locked yes)
 		(members "3da46f46-cf1c-489a-98e6-f911468b302e" "497997e3-6d5e-49da-a910-2333c0189895"
 			"4cf517c7-943b-4de8-8f90-04ba7088a3a0" "506364c4-b941-4a80-9a2f-4e453e524cac"
 			"62e3ee00-b798-4ad0-88a3-fa4e11150ca0" "788b491c-bb5e-4028-8c0e-b7d53d79fd01"
@@ -42523,7 +42452,6 @@
 	)
 	(group ""
 		(uuid "edf40094-140a-49de-bdf1-19b0802c0688")
-		(locked yes)
 		(members "2583b367-aeb6-44ad-816a-34be03c0951b" "519b5d4d-062b-48f7-b44c-a297db88cfc3"
 			"807238b1-67d4-4dde-a6d1-12be65fd5f5c" "939f7f53-c0a8-465e-88a2-a185328ba31e"
 			"e3ec9077-a84d-481d-9317-26dd73b0cbb0"
@@ -42531,7 +42459,6 @@
 	)
 	(group ""
 		(uuid "fdaafec3-66d2-428b-9a72-e0d5af80405b")
-		(locked yes)
 		(members "27a1df57-c3fa-469b-963c-d89514c8ba91" "291d465e-5f61-4992-8adb-9aabb026c3c0"
 			"292303f4-98ba-4737-a5f2-06c9aebadcd0" "2e2b6754-0c2a-4400-afcc-3513fbfd9d6e"
 			"2fb839d3-f123-496b-82ce-349fc86f823f" "51d43e78-13da-4a40-87d4-1b0d49df645a"
