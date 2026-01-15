@@ -455,7 +455,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "02eb8bbb-3f37-4d55-91e9-a857e47a2ea5")
-		(at 518.34 236.21 180)
+		(at 144.65 138.9 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D57"
@@ -740,7 +740,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "041e0031-2dac-4b1b-819d-f1c6f6e31258")
-		(at 537.53 236.21 180)
+		(at 284.2 119.65 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D42"
@@ -2452,7 +2452,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "135ad395-7915-4254-9c59-31a9638fe64c")
-		(at 537.53 305.11 180)
+		(at 185.85 119.75 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D32"
@@ -3308,7 +3308,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "160a315c-77a0-448b-ae85-584c349fdc9e")
-		(at 537.53 263.77 180)
+		(at 245.05 119.95 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D38"
@@ -4733,6 +4733,7 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "2583b367-aeb6-44ad-816a-34be03c0951b")
 		(at 435.5 128.36)
@@ -6450,7 +6451,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "2bcc5a99-0f85-48d4-a423-c6e05397d3bb")
-		(at 537.53 284.44 180)
+		(at 215.35 100.3 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D35"
@@ -7307,7 +7308,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "2fbd57b5-c97c-43d1-ab3a-c67364468152")
-		(at 537.53 291.33 180)
+		(at 205.55 119.8 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D34"
@@ -9363,7 +9364,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "44529c03-9325-4a8c-b868-8358496570ff")
-		(at 537.53 256.88 180)
+		(at 254.6 100.25 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D39"
@@ -10506,13 +10507,13 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "51033804-7edd-446f-bee2-b94c6ba9e03e")
-		(at 518.34 263.77 180)
+		(at 400.15 119.8 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D52"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "056ecba2-eb4a-4dcb-b456-d6119d8ad048")
+			(uuid "a93dde8d-76e0-4ebd-ba18-260fb7f0c92c")
 			(effects
 				(font
 					(size 1 1)
@@ -10523,7 +10524,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "10905d15-9289-4767-96c6-fc17f064ff3f")
+			(uuid "6ca0b217-07e9-4874-a8a3-4cc4a467e69d")
 			(effects
 				(font
 					(size 1 1)
@@ -10535,7 +10536,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d3c7ce47-4874-494b-b107-05a18376e929")
+			(uuid "3c857a53-b1f5-4803-8341-962f1e6b13bb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10547,7 +10548,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "66458cfa-b065-45e7-95e8-be7e1b5e585c")
+			(uuid "c61a7d98-dde4-4c7e-837f-b4d781fe2b00")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10789,6 +10790,7 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "519b5d4d-062b-48f7-b44c-a297db88cfc3")
 		(at 435.45 69.51)
@@ -12218,7 +12220,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "5d13653e-9705-4148-99c2-b5de883e31fa")
-		(at 537.53 325.78 180)
+		(at 149.8 100 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D29"
@@ -12503,7 +12505,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "5d862882-3592-4370-a700-8ce1360c4425")
-		(at 518.34 256.88 180)
+		(at 405 99.65 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D53"
@@ -12788,7 +12790,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "5fd3215f-c9cf-4794-bbb4-bb58a6d8d631")
-		(at 499.15 312 180)
+		(at 205.35 138.69 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D60"
@@ -13073,7 +13075,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "6258e7c8-6604-4c20-84ff-0c960c5e2e46")
-		(at 537.53 270.66 180)
+		(at 234.95 100.25 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D37"
@@ -13929,7 +13931,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "647f1b8a-bac5-4b3f-b0b5-93105bbd125a")
-		(at 518.34 325.78 180)
+		(at 293.95 99.95 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D43"
@@ -14214,7 +14216,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "6a0d2459-7004-475d-9b79-fade854b5957")
-		(at 537.53 249.99 180)
+		(at 264.45 119.6 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D40"
@@ -15070,7 +15072,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "6cc164c9-021e-4b35-8d33-5cec539ba563")
-		(at 499.15 291.33 180)
+		(at 372.08 138.92 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D63"
@@ -15355,13 +15357,13 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "70012b76-de9c-4191-8be6-1b53ceb94325")
-		(at 518.34 270.66 180)
+		(at 373.2 99.75 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D51"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "49093742-4238-4b21-8485-90310525f301")
+			(uuid "1814393b-1d84-4d83-ab72-f44259cce32d")
 			(effects
 				(font
 					(size 1 1)
@@ -15372,7 +15374,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "f16d4683-cb7b-40ac-8877-30f987fbb9c8")
+			(uuid "045f496e-c4ff-471f-bce6-b068c40aa0d0")
 			(effects
 				(font
 					(size 1 1)
@@ -15384,7 +15386,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a9a85ed6-fb7a-41c0-a761-11f3056c1abd")
+			(uuid "5745afad-67b9-44c8-9c93-44dc7fb4eb04")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15396,7 +15398,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "359cb87f-a3fd-47af-9856-8b74736aa96e")
+			(uuid "cd6dc4fe-ceb5-44a3-918c-b347647df923")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15640,7 +15642,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "77608e21-b66b-42b0-b644-4117ae043aea")
-		(at 518.34 291.33 180)
+		(at 343.3 119.6 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D48"
@@ -16497,7 +16499,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "7a93f85e-46bc-4949-96bb-4583eb768737")
-		(at 499.15 277.55 180)
+		(at 440.45 99.94 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D65"
@@ -16782,7 +16784,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "7dd24ba4-c0eb-460d-a2b4-64e636b2521a")
-		(at 499.15 305.11 180)
+		(at 276.11 138.84 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D61"
@@ -17351,6 +17353,7 @@
 		)
 	)
 	(footprint "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "807238b1-67d4-4dde-a6d1-12be65fd5f5c")
 		(at 438.75 56.5 180)
@@ -18334,7 +18337,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "867ec8d9-3b1a-4373-9e57-bbe4015f6105")
-		(at 518.34 298.22 180)
+		(at 333.5 99.95 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D47"
@@ -23826,7 +23829,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "8e6a7d5d-9083-47e6-804e-0327adf9a711")
-		(at 518.34 243.1 180)
+		(at 440.575 80.425 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D56"
@@ -25538,7 +25541,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "91037bfe-5cf2-4de9-8cc6-486a12152df6")
-		(at 499.15 318.89 180)
+		(at 186.27 139.35 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D59"
@@ -25821,6 +25824,7 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "939f7f53-c0a8-465e-88a2-a185328ba31e")
 		(at 435.45 108.86)
@@ -26393,7 +26397,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "96e44a7d-ca41-4212-b95a-6852a6575ac8")
-		(at 518.34 249.99 180)
+		(at 414.25 138.6 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D54"
@@ -26678,7 +26682,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "975166a3-9abc-4dda-88ae-f9f598adf352")
-		(at 537.53 243.1 180)
+		(at 274.4 100.05 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D41"
@@ -27820,7 +27824,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "9bbe4da7-79a3-4379-8482-84a8c67a415b")
-		(at 499.15 298.22 180)
+		(at 349.04 138.57 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D62"
@@ -28105,7 +28109,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "9d16bae8-5463-4e86-b29b-55d5e0a5e17a")
-		(at 537.53 312 180)
+		(at 176.4 100.5 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D31"
@@ -28962,13 +28966,13 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "a01e89d3-77fb-4472-b297-e34d9724ea52")
-		(at 518.34 277.55 180)
+		(at 363.15 119.75 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D50"
 			(at 7.62 -3.785 0)
 			(layer "F.SilkS")
-			(uuid "a4901f86-4d80-45bb-b8d6-646b37667cfb")
+			(uuid "b412e4d0-94ea-4ddf-80d9-ec3592aa54bd")
 			(effects
 				(font
 					(size 1 1)
@@ -28979,7 +28983,7 @@
 		(property "Value" "1N4148WT"
 			(at 7.62 3.785 0)
 			(layer "F.Fab")
-			(uuid "17d16895-7fab-4e56-8d05-1eb9bb412554")
+			(uuid "a3f8aee0-557d-451c-9afa-961064bb2da7")
 			(effects
 				(font
 					(size 1 1)
@@ -28991,7 +28995,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8894fd26-e61c-40ec-a792-806861361826")
+			(uuid "f1ad757c-270a-46b9-a194-99fa6572fe4c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29003,7 +29007,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d526cdd6-7677-41b0-8b69-c91bc514c4a3")
+			(uuid "822e31d8-0db7-45ab-bd2b-863c884ba641")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32132,7 +32136,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "a9acb058-a650-4807-9eed-82953308d75b")
-		(at 499.15 284.44 180)
+		(at 391.89 138.85 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D64"
@@ -32417,7 +32421,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "aba67e7f-5873-42e3-869f-c391fb9d322b")
-		(at 518.34 318.89 180)
+		(at 304.3 119.35 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D44"
@@ -32702,7 +32706,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "aca596e5-201a-402a-80f9-be4d11b4f7ba")
-		(at 499.15 263.77 180)
+		(at 440.79 139.29 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D67"
@@ -35300,7 +35304,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "c8fd5168-8276-4695-9b31-c67a49fd9ed9")
-		(at 537.53 277.55 180)
+		(at 225.2 119.75 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D36"
@@ -36443,7 +36447,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "d2f04d30-9190-4d63-8a08-3a4015ad6d37")
-		(at 537.53 318.89 180)
+		(at 154.4 119.45 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D30"
@@ -37013,7 +37017,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "db87808d-a8e4-42c2-ae52-7e47c45f5cec")
-		(at 499.15 325.78 180)
+		(at 166.92 139.21 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D58"
@@ -37298,7 +37302,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "dba7cdd0-380d-48ba-b18c-32989038f3e3")
-		(at 518.34 305.11 180)
+		(at 323.85 119.6 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D46"
@@ -38154,7 +38158,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "e0889457-2bd0-4e0e-b399-de211407975b")
-		(at 518.34 284.44 180)
+		(at 353.4 99.9 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D49"
@@ -39008,6 +39012,7 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "e3ec9077-a84d-481d-9317-26dd73b0cbb0")
 		(at 435.45 89.16)
@@ -40439,7 +40444,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "f3a1d0df-4290-46e9-8d9d-c8ce5ab5381f")
-		(at 499.15 270.66 180)
+		(at 440.5 119.82 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D66"
@@ -40724,7 +40729,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "f45148c8-0bde-4a19-bd00-c12ca9b902c7")
-		(at 518.34 312 180)
+		(at 313.55 100 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D45"
@@ -41581,7 +41586,7 @@
 	(footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "fcf1e3e0-5fee-44f2-ba1e-dcffffb17913")
-		(at 537.53 298.22 180)
+		(at 195.85 100.35 180)
 		(descr "Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, length*diameter=9.52*5.33mm^2, http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg")
 		(tags "Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm")
 		(property "Reference" "D33"
@@ -42518,6 +42523,7 @@
 	)
 	(group ""
 		(uuid "edf40094-140a-49de-bdf1-19b0802c0688")
+		(locked yes)
 		(members "2583b367-aeb6-44ad-816a-34be03c0951b" "519b5d4d-062b-48f7-b44c-a297db88cfc3"
 			"807238b1-67d4-4dde-a6d1-12be65fd5f5c" "939f7f53-c0a8-465e-88a2-a185328ba31e"
 			"e3ec9077-a84d-481d-9317-26dd73b0cbb0"
